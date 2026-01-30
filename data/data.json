@@ -1,1 +1,5458 @@
-{}
+[
+  {
+    "id": "country-0",
+    "region": "亞洲",
+    "country": "土耳其 ",
+    "international": {
+      "usage": "可(汽車)  (入境 6 個  月,併同我 國護照使 用)  (112.5.11)",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.373Z"
+  },
+  {
+    "id": "country-1",
+    "region": "",
+    "country": "不丹",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-2",
+    "region": "亞洲",
+    "country": "中國大陸",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "持中國大陸駕照須 實習期滿，得以筆 試及格換領台灣駕 照，但大型客車、牽 引車、中型客車、大  型貨車仍須實地測 試。"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-3",
+    "region": "亞洲",
+    "country": "香港",
+    "international": {
+      "usage": "可  （最長連續 使用 1 年） 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  (香港運輸 署查詢駕 在當地使 用情形 照狀態網  頁)  https://ww w.gov.hk/t c/residents /transport/ drivinglice nse/ocdls.  htm",
+      "status": "warning",
+      "notes": "（欲申領香港駕  照，申請人須填妥 表格＃TD63A- 備註 「免試換領香港駕 駛執照申請書」乙 份，遞交時須一併 附上申請人護照及 原有效駕照之正、 副本、最近 3 個月 香港當地地址證明  （97.9.16 起），到 香港運輸署牌照事 務處辦理查詢電 話：（852）2804-2 636，網址 www.t d.gov.hk （香港運 輸署查詢電話：（8 52）2804-2600）"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-4",
+    "region": "亞洲",
+    "country": "澳門",
+    "international": {
+      "usage": "可  （持我國國 際駕照在澳 門駕駛，首  1 4 日免登 記得逕持我 國國際駕照 配合我國護 照及旅客抵  澳申請表可 在澳門駕 駛。超過 14 日在使用前 在當地使  用情形 需持向澳門 治安警察局 交通廳作有  關免費登記 手續後，持 該廳核發之 單張憑證， 於效期內隨 同國際駕照 使用。如未 作登記手續 而被澳門警 方查獲，將 被開具澳門 幣三百元之 未登記之罰 款。）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  （持我國  內或國際 駕照搭配 我國護照 及有效入  境申請表， 擬於澳門 停留超過 14 天者， 備齊應備 文件親臨 澳門交通 在當地使 用情形 警司處登 記申請。未 超過 14 天  毋須登 記。）",
+      "status": "success",
+      "notes": "我國駕照在當地使 用之條件為請見本 （104）年 3 月 3 日 MAC0001 電之附 件「我國內/國際駕 照在澳門地區直接 使用須知表」。 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-5",
+    "region": "亞洲",
+    "country": "巴布亞紐幾 內亞",
+    "international": {
+      "usage": "可，惟倘住 超過 6 個月 需換領巴紐 駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可，惟倘住 超過 6 個 月需換領 巴紐駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-6",
+    "region": "亞洲",
+    "country": "巴林",
+    "international": {
+      "usage": "可(1 個月) 112.5.12 外 交部電",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-7",
+    "region": "亞洲",
+    "country": "巴基斯坦",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-8",
+    "region": "亞洲",
+    "country": "日本",
+    "international": {
+      "usage": "否 在當地使  用情形",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可，我國駕 照 及日文 在當地使 用情形 譯 本 可 於 當地直接 使用。  交通部 104.12. 4 交路字第 1040 038960 號函",
+      "status": "success",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-9",
+    "region": "亞洲",
+    "country": "以色列",
+    "international": {
+      "usage": "可  1 年（之後 須取得以國 駕照）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可  1 年（之後 須取得以 國駕照）",
+      "status": "warning",
+      "notes": "以色列駕駛執照之 以色列國民，年齡 符合我國法律規定  者，取得經許可停 (居)留 6 個月以上 之證明（件）者，  得於入境之翌日起 依平等互惠原則， 提供駕駛執照譯本 及驗證、通過體格 檢查，並支付所有  必要費用，得免筆 試、免路考換發相 對應之駕駛執照， 申請者原駕駛執照  於審驗後發還。 (109.10.13 交路字第  1090027854 號)"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-10",
+    "region": "亞洲",
+    "country": "卡達",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-11",
+    "region": "亞洲",
+    "country": "尼泊爾",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 在當地使  用情形 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-12",
+    "region": "亞洲",
+    "country": "伊朗",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "持有短期停留之 商務或觀光簽證， 可使用效期內之  我國國際駕照。倘 獲長期之居留簽 證，依規定須使用 當地駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-13",
+    "region": "亞洲",
+    "country": "印尼",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "效期內"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-14",
+    "region": "亞洲",
+    "country": "印度",
+    "international": {
+      "usage": "可 ( 國際駕 照有效期限 內，最長可 使用一年)",
+      "status": "warning",
+      "notes": "國際駕照持用人 需併持我國國內 駕照使用。"
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-15",
+    "region": "亞洲",
+    "country": "沙烏地阿拉 伯",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": "不換發當地駕照， 僅可使用 1 個月。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-16",
+    "region": "亞洲",
+    "country": "汶萊",
+    "international": {
+      "usage": "可  3 個 月 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "長期居留  者，不可 直 接 使  用 我 國 駕 照 在當地使 用情形",
+      "status": "warning",
+      "notes": "須親至汶萊陸路交 通局面試， 通過 後再進行筆試及路 考(僅有 手排  車)。 須準備下列 文件： 1.有效駕 照正本及影本 2 份，以 及經我駐 處驗證之英譯本。 2.我國護照正本及 影本。 備註 3.汶萊工作准證。 4.汶萊身分證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-17",
+    "region": "亞洲",
+    "country": "孟加拉",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-18",
+    "region": "亞洲",
+    "country": "阿拉伯聯合 大公國",
+    "international": {
+      "usage": "可,限小型 車,僅限持 觀光簽證入  境者在停留 期限內租車 使用。  (外研綜字  1124700576 函)",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "不准使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-19",
+    "region": "亞洲",
+    "country": "阿曼",
+    "international": {
+      "usage": "可(3 個月) 須帶國內駕 照備查,限 小型車  1120628(外 研綜字 112 4700576  函)",
+      "status": "success",
+      "notes": "3 個月。停留阿曼 期間可使用我國 國際駕照租用懸 掛紅色車牌之出 租車輛。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-20",
+    "region": "亞洲",
+    "country": "俄羅斯聯邦",
+    "international": {
+      "usage": "持我國國際 駕照，自抵 達俄羅斯起 在當地使  用情形 半年內可使 用，倘超過 上述期限則 必須更換俄 羅斯駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "danger",
+      "notes": "否 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-21",
+    "region": "亞洲",
+    "country": "柬埔寨",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-22",
+    "region": "亞洲",
+    "country": "科威特",
+    "international": {
+      "usage": "可  (111.11.16 外  亞非阿字  1110457389 )",
+      "status": "success",
+      "notes": "我國公民可於訪 問停留科國期間 (Visitor)持有效國 際駕照駕車。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-23",
+    "region": "亞洲",
+    "country": "約旦",
+    "international": {
+      "usage": "可  （限在我國 際駕照有效 期間內租用 車）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-24",
+    "region": "亞洲",
+    "country": "泰國",
+    "international": {
+      "usage": "可(110.7.6  交路字第  1100017225 號) 在當地使  用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-25",
+    "region": "亞洲",
+    "country": "馬來西亞",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "僅適用在馬來西 亞停留不超過 12 個月的外籍人  士，長期居留簽 證者必須依照馬 國民眾申請駕照 程序申辦駕照  （包括筆試、路  考等）。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "馬來西亞政府宣布 自 2025 年 5 月 19 日起不接受所有外 國駕照轉換為馬來 西亞駕照申請，外 籍人士必須依照馬 國民眾申請駕照程  序申辦駕照（包括 筆試、路考等）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-26",
+    "region": "亞洲",
+    "country": "斯里蘭卡",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-27",
+    "region": "亞洲",
+    "country": "菲律賓",
+    "international": {
+      "usage": "可（在國際 駕照有效期 限內,不超 在當地使  用情形 過 1 年）",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "我國有效駕照須翻 譯成英文並經我駐 菲 律 賓 代 表 處 驗 備註 證。交通部 104.12.4 交路 字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-28",
+    "region": "亞洲",
+    "country": "越南",
+    "international": {
+      "usage": "不可 (我國 非 1968 年 維也納公約 締約國)(10 9.5.8 駐越 南台北經濟 文化辦事 處)  承認我國國 際及國內駕 照，但無法  持國際駕照 直接使用。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "需將我國駕照翻譯成越文（國際駕照 如有越文免翻譯） 並經公證或駐處驗證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-29",
+    "region": "亞洲",
+    "country": "新加坡",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "使用時須同時攜 帶國際駕照及國 內駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-30",
+    "region": "亞洲",
+    "country": "蒙古",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-31",
+    "region": "亞洲",
+    "country": "寮國",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "交通部 104.12.4 交路字第 1 040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-32",
+    "region": "亞洲",
+    "country": "緬甸",
+    "international": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-33",
+    "region": "亞洲",
+    "country": "韓國",
+    "international": {
+      "usage": "可  （111.2.23 在當地使  用情形 交路密字第 1117100138 號）",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "申換韓國駕照係一 次核發 10 年效期 備註 之當地駕照交通部 10 4.12.4 交路字第 104003896 0 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-34",
+    "region": "亞洲",
+    "country": "黎巴嫩",
+    "international": {
+      "usage": "可  (112.2.24  1120023883) 外交部亞非  司",
+      "status": "warning",
+      "notes": "黎國對於他國駕 照的規定均不定 期更新，建議國 人必要時可先聯 繫 Lebanon Auto  mobile Associatio n (電話：+961-1- 893-413)洽詢。"
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-35",
+    "region": "中南美洲",
+    "country": "巴哈馬",
+    "international": {
+      "usage": "可。短期觀光 可使用 3 個 月。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-36",
+    "region": "中南美洲",
+    "country": "聖文森",
+    "international": {
+      "usage": "可,但國際駕 照須經聖國 稅捐處監理 單位免費蓋 戳記後始生  效，其效期同 國際駕照效 期。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否,惟可據 以申換臨 時駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-37",
+    "region": "中南美洲",
+    "country": "千里達",
+    "international": {
+      "usage": "可。僅能使用 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-38",
+    "region": "中南美洲",
+    "country": "格瑞那達",
+    "international": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.376Z"
+  },
+  {
+    "id": "country-39",
+    "region": "中南美洲",
+    "country": "厄瓜多",
+    "international": {
+      "usage": "依據厄國交 通法規定，厄 國承認外國  人所持國際 駕照，惟僅可 使 用 1 個 月。如欲繼續 於厄境駕 在當地使用 情形 駛，須換考當 地駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "承認情形 同國際駕 照（同左） 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-40",
+    "region": "中南美洲",
+    "country": "巴西",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-41",
+    "region": "中南美洲",
+    "country": "巴拉圭",
+    "international": {
+      "usage": "可。  國際駕照可 使用至效期 截止日。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可。  觀光客於 停留巴國 90 天內， 得使用我 國駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-42",
+    "region": "中南美洲",
+    "country": "尼加拉瓜",
+    "international": {
+      "usage": "不可  (112.12.8 修改)外 研綜字 112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可  (112.12.8 修改) 外研綜字  112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-43",
+    "region": "中南美洲",
+    "country": "哥斯大黎加",
+    "international": {
+      "usage": "可。  持效期內之 我國國際駕 照及護照可 在哥國駕駛 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可。  持效期內 之我國國 內駕照及  護照可在 哥國駕駛 30 天，尚 在申請居 留程序者 經提出證 明後可延 至 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-44",
+    "region": "中南美洲",
+    "country": "巴拿馬",
+    "international": {
+      "usage": "可。  使用期限自 在當地使用 情形 入境日起至 簽證准予停 留期限（巴簽 證准予停留  期限多為 90 天），期間須 隨身攜帶護 照供查驗；或 於入境後隨 即申請換發 同簽證准予 停留期限之 巴拿馬駕駛 許可，使用期 間毋需隨帶 護照，以上兩 種情形可於 准予停留期 間到期後至 移民局申請 延長停留，再 持憑向交通 局申請換發 與准予停留 期限相同之 巴拿馬駕駛 許可。 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "general": {
+      "usage": "可。  使用期限 在當地使 用情形 自入境日 起至簽證 准予停留  期限（巴簽 證准予停 留期限多  為 9 0 天），期間 須隨身攜 帶護照供 查驗；或於 入境後隨  即申請換 發同簽證 准予停留  期限之巴 拿馬駕駛 許可，使用  期間毋需 隨帶護 照，以上兩 種情形可  於准予停 留期間到 期後至移  民局申請 延長停 留，再持憑 在當地使 用情形 向交通局 申請換發 與准予停 留期限相 同之巴拿 馬駕駛許 可。",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-45",
+    "region": "中南美洲",
+    "country": "聖克里斯多 福",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-46",
+    "region": "中南美洲",
+    "country": "牙買加",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-47",
+    "region": "中南美洲",
+    "country": "安地卡",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-48",
+    "region": "中南美洲",
+    "country": "荷屬聖馬丁 不可",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-49",
+    "region": "中南美洲",
+    "country": "智利",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-50",
+    "region": "中南美洲",
+    "country": "瓜地馬拉",
+    "international": {
+      "usage": "入境後簽證 准予停留之 期間內可以 使用（持我國  護照可免簽 證進入瓜 在當地使用 情形 國，最長可停 留 3 個月）， 如申請准予 延長停留，在 核准停留之  期間內可以 使用。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "入境後簽 證准予停 留之期間 內可以使 用（持我國 護照可免 在當地使 用情形 簽證進入 瓜國，最長 可停留 3 個月），如 申請准予 延長停 留，在核准 停留之期 間內可以 使用。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-51",
+    "region": "中南美洲",
+    "country": "委內瑞拉",
+    "international": {
+      "usage": "可(30 天)  委內瑞拉為 獨裁政權，法 治不彰，對我 極不友好，基  本上不核發 我國人商務 或觀光入境 簽證，入境國 人是否適用 上述規定，建 議自行再向 委國相關單 位查證。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-52",
+    "region": "中南美洲",
+    "country": "多明尼加",
+    "international": {
+      "usage": "可,使用期限 原則為30天 (我國人免簽 停留期限) 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可。  持我國內 駕照不可 逕於多國 在當地使 用情形 境內開 車，可經換 照程序，向  多國監理 站申辦一 般駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-53",
+    "region": "中南美洲",
+    "country": "宏都拉斯",
+    "international": {
+      "usage": "不可  (112.12.8 修改)外 研綜字 112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可  (112.12.8 修改) 外研綜字  112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-54",
+    "region": "中南美洲",
+    "country": "貝里斯",
+    "international": {
+      "usage": "可(小型車，3 個月)  (113.3.15 改)  (外研綜字  112400576) 在當地使用 情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形",
+      "status": "warning",
+      "notes": "我國人在貝國 合法居住滿 1 年 後，得檢具以下 相關證件向貝  國交通監理處 申請免試換發 貝國駕照：居留 證影本、我國有  效駕照影本、體 檢證明、駕照申 請書、照片 2 張 。  首次申請規費 90 貝幣(折合約 備註 45 美元)，駕照 效期 1 年，嗣後 更新駕照之效 期為 1 年，規費 為 60 貝幣(約折 合 30 美元)"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-55",
+    "region": "中南美洲",
+    "country": "阿根廷",
+    "international": {
+      "usage": "可。  自發照日起 一年為限。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-56",
+    "region": "中南美洲",
+    "country": "烏拉圭",
+    "international": {
+      "usage": "可。  （僅限於觀光期間，最長 至 6 個月為 限。） 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可  (110.10.21 拉 美南字第 11023 55328 號) 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-57",
+    "region": "中南美洲",
+    "country": "玻利維亞",
+    "international": {
+      "usage": "可。  一、短期觀光 停留者可  持用我國  國際駕  照。  二、於玻居留 者需持國  際駕照至  各省監理  處核備。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可,承認。 一、短期觀 光停留  者可持  用我國  內 駕  照。  二、於玻居 留者需  持我國  內駕照  至各省  監理處  換發。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-58",
+    "region": "中南美洲",
+    "country": "哥倫比亞",
+    "international": {
+      "usage": "可。  居留國外而 暫時返國居 住之哥倫比 亞人及居留 哥國之外人  持有外國合 法駕駛執 照，且該駕駛 執照發照國 與該國具外 交或商業關 在當地使用 情形 係時，持照人 可依規定換 領同等級之 哥國駕駛執 照。  持觀光簽證 或異於居留 簽證之其他 簽證之外  人，在所持外 國駕駛執照 及簽證有效 期間內，可以 該等證件在 哥國境內行 駛（但不可駕 駛公車）。惟 哥國交通部 官員告稱，該 駕駛執照應 譯成西文並 經公證。 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "general": {
+      "usage": "不可,但承認。  居留國外 而暫時返 國居住之 哥倫比亞 人及居留 哥國之外 人持有外 國合法駕 駛執照，且 該駕駛執 在當地使 用情形 照發照國 與該國具 外交或商 業關係 時，持照人 可依規定 換領同等 級之哥國 駕駛執照。 持觀光簽 證或異於 居留簽證 之其他簽 證之外 人，在所持 外國駕駛 執照及簽 證有效期 間內，可以 該等證件 在哥國境 內行駛（但 不可駕駛 公車）。惟 哥國交通 部官員告 稱，該駕駛 執照應譯 在當地使 用情形 成西文並 經公證。",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-59",
+    "region": "中南美洲",
+    "country": "海地共和國 承認",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可,但承 認。  （惟需翻  譯英文或 法文並依 規定辦理 驗證。）",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-60",
+    "region": "中南美洲",
+    "country": "秘魯",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-61",
+    "region": "中南美洲",
+    "country": "墨西哥",
+    "international": {
+      "usage": "可  (在墨短期停 留原則可使 用我國核發  之國際駕照 駕車)外交部 網站  墨國 32 州 規定要求不 盡相同,詳情 可向擬申辦  之州政府主 管機關。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可,鑒於我 國駕照僅 有中文資  料,建議國 人使用國 際駕照,以 利當地執 法機關民 間租車業  者辨識。 (外研綜字第 11 24700576)",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-62",
+    "region": "中南美洲",
+    "country": "薩爾瓦多",
+    "international": {
+      "usage": "不可 在當地使用 情形 112..6.28 外研綜 字第 1124700576",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形 112..6.28 外研 綜字第 1124700 576",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-63",
+    "region": "中南美洲",
+    "country": "聖露西亞",
+    "international": {
+      "usage": "可(小型車  3個月)  112.12.8 改  外研綜字第  1124700576",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": "交通部104.12.4  交路字第1040038960號 函"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-64",
+    "region": "北美洲",
+    "country": "(美)內布拉 斯加州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-65",
+    "region": "北美洲",
+    "country": "(美)內華達 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "國際駕照非必備（not  required for foreig n vi-sitor），建議隨 身攜帶我國駕照。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 21 歲居住於內華達 州之國人，持有我國有效 且未逾期之小型車普通  駕駛執照，支付所有必要 費用及通過視力測驗及 筆試後，得免除道路駕駛 測試換發該州非商用 Cla ss C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-66",
+    "region": "北美洲",
+    "country": "(美)加州",
+    "international": {
+      "usage": "否 在當地使 用情形 在當地使 用情形",
+      "status": "danger",
+      "notes": "該州法律不承認國際 駕照。國際駕照僅係我 國駕照之翻譯資訊。 使用方式 使用方式"
+    },
+    "general": {
+      "usage": "可(包括有 身分證之國 民,但不適 在當地使用 情形 用持居留證 者)109.10.14  (持台灣居  留證者不得 使用加州駕 照,但持台 灣身分證者 可使用加州 駕照) 在當地使用 情形",
+      "status": "success",
+      "notes": "該州僅承認外國旅客其 本國之有效駕照。考慮我 國駕照僅具中文，美方人 使用方式 員不易判讀，建議國人赴 該州觀光旅遊除攜帶我 國駕照外，另備國際駕 照，或有助美方人員判 讀。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-67",
+    "region": "北美洲",
+    "country": "(美)北卡羅 來納州",
+    "international": {
+      "usage": "可(60 天)",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用。觀光客得於停留期 間使用，具居民身分者 得使用 60 天。"
+    },
+    "general": {
+      "usage": "可(60 天)",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用。觀光客得於停留期間 使用，具居民身分者得使 用 60 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-68",
+    "region": "北美洲",
+    "country": "(美)北馬里 安納群島",
+    "international": {
+      "usage": "可(30 天) 在當地使 用情形",
+      "status": "success",
+      "notes": "美屬北馬里安納不承 認我國際駕照，惟短期 使用方式 觀光可同時持有效之 我國內及國際駕照使 用，期限為 30 天。"
+    },
+    "general": {
+      "usage": "可(30 天) 在當地使用 情形",
+      "status": "success",
+      "notes": "美屬北馬里安納亦不承 認我國內駕照，惟短期觀 使用方式 光可同時持有效之我國 內及國際駕照使用，期限 為 30 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-69",
+    "region": "北美洲",
+    "country": "(美)北達科 他州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-70",
+    "region": "北美洲",
+    "country": "(美)田納西 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於田 納西州之國人，均可持有 效、未逾期超過 6 個月且 未經撤回、中止、吊銷或  暫停使用及取消資格致 無法使用之我國駕駛執 照，免筆試免路考申請換 發該州之小型車普通駕 駛執照（Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-71",
+    "region": "北美洲",
+    "country": "(美)伊利諾 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用至期滿為止"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-72",
+    "region": "北美洲",
+    "country": "(美)印地安 那州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 1 年 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "danger",
+      "notes": "年滿 18 歲合法居留於印 州，持我國合法小型車駕 駛執照、大貨車駕駛執 照、大客車駕駛執照、聯 結車駕駛執照，支付所有 必要費用並通過筆試及 視力檢查，得免路考及免 使用方式 相關駕駛教育，申請換發 印州行車駕駛執照。申請 者之原駕駛執照於審驗 後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-73",
+    "region": "北美洲",
+    "country": "(美)西維吉 尼亞州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "居住於該州之我國有效 駕照持有者，可以我國換 領該州駕照(class E)， 並免除筆試及路考。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-74",
+    "region": "北美洲",
+    "country": "(美)佛蒙特 州",
+    "international": {
+      "usage": "可(需搭  配我國內 駕照使用 在當地使 用情形 1 年)",
+      "status": "warning",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "可(需搭配 我國際駕照 使用 1 年) 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於佛 蒙特州之我國國人，持我 國合法小型車駕駛執 使用方式 照、大貨車駕駛執照、大 客車駕駛執照、聯結車駕 駛執照，提出過去 3 年駕 駛紀錄、支付所有必要費 用並通過視力檢查，得免 筆試、免路考且免駕駛教 育，申請換發美國佛蒙特 州 D 類駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-75",
+    "region": "北美洲",
+    "country": "(美)佛羅里 達州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可短期使用，執法人員 依持照人身分認定期 限，最長為 6 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "具有美國合法居留身分 及佛羅里達州居住證明 之國人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申領該 州之 E 類普通汽車駕駛執 照（Class E）。申請人需 年滿 18 歲且需領有該等 級駕照至少 3 個月，我國 駕照於查驗後退還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-76",
+    "region": "北美洲",
+    "country": "(美)亞利桑 那州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "持國際駕照者，使用期 限為 1 年。（建議隨身 使用方式 攜帶我國駕照）"
+    },
+    "general": {
+      "usage": "可（該州允 許持有外國 在當地使用 情形 駕照之駕駛 人在該州駕 車，惟因國  際駕照有英 文說明，州 政府建議攜 我國際駕照 與我國內駕  照合併使 用）",
+      "status": "warning",
+      "notes": "一、至洛杉磯辦事處辦理 駕照驗證。 使用方式 二、持驗證過的駕照英譯 本及正本，兩種以上 合法居留於美國的身 分證明文件至亞利桑 那州監理處申請 Cla s-s D.   三、年滿 18 歲合法居留 於亞利桑那州之國 人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申 請換發該州之非商用  汽車駕駛執照（Clas s D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-77",
+    "region": "北美洲",
+    "country": "(美)明尼蘇 達州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 60 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 21 歲且持有我國小 型車普通駕駛執照至少 3 年，並支付相關費用，通 過筆試及視力測驗，無須  路考，得換領明州非商用 等級 D 駕駛執照。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-78",
+    "region": "北美洲",
+    "country": "(美)肯塔基 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用"
+    },
+    "general": {
+      "usage": "可（台灣人 民可持有效 駕照於該州  境內至多 1 年）（台灣學 生於該州就  讀大學至多 可駕駛 4  年）104.4. 15",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於肯 塔基州國人，持我國有效 小型車普通駕駛執照之  申請者，支付所有必要費 用及通過視力測驗，得免 除路考及相關駕駛知識 測驗，申請換發該州之普  通汽車駕駛執照（Class  D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-79",
+    "region": "北美洲",
+    "country": "(美)阿拉巴 馬州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於阿 拉巴馬州之國人，均可持 有效之我國小型車普通 駕駛執照，免筆試免路考 申請換發該州之普通小 型車駕駛執照（Class D）"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-80",
+    "region": "北美洲",
+    "country": "(美)阿拉斯 加州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-81",
+    "region": "北美洲",
+    "country": "(美)阿肯色 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "90 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於阿 年滿 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-82",
+    "region": "北美洲",
+    "country": "州",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": "肯色州之國人，均可持有 效之我國小型車普通駕 駛執照，免筆試免路考申 領該州之 D 類汽車駕駛執 照（ClassD）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-83",
+    "region": "北美洲",
+    "country": "(美)俄亥俄 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用 1 年"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "我國與俄亥俄州已於 107 年 10 月 9 日簽署免試互 惠協議，自即日起年滿 1 8 歲合法居留於俄州，持 我國合法小型車、大貨  車、大客車、聯結車駕駛 執照者，檢附駕駛執照審 查證明書證明駕駛執照 有效性，支付所有必要費 用並通過視力檢查，得免 筆試、免路考申請換發該 州之非商用 Class D  駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-84",
+    "region": "北美洲",
+    "country": "(美)奧勒岡 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲取得愛州合法 居留身分之國人，均可持 有效之我國小型車普通 駕照並檢附 3 個月內之 「中華民國汽車駕駛執 使用方式 照審查證明書」，經筆試 免路考申領該州之 C 類汽 車駕照（Class C）。(104/  10/1 交路字第 10400320971 號 函)(須回收駕照)"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-85",
+    "region": "北美洲",
+    "country": "(美)南卡羅 來納州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，並於 6 個月內換考 當地駕照。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "自即日起年滿 18 歲合法 居留於南卡羅萊納州之 國人，均可持有效之我國  小型車普通駕駛執照，免 筆試免路考申請換發該 州之普通汽車駕駛執照 （Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-86",
+    "region": "北美洲",
+    "country": "(美)南達科 他州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-87",
+    "region": "北美洲",
+    "country": "(美)威斯康 辛州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，效期 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 21 歲合法居留於美 國威州之國人可持有效 之我國小型車普通駕駛 執照至少 3 年之申請者， 得免筆試免路考申請換 發該州之普通汽車駕駛 執照(class D)；申請者 須持 3 個月內申請之駕駛 使用方式 執照審查證書認定所持 駕照有效性。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-88",
+    "region": "北美洲",
+    "country": "(美)科羅拉 多州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "得搭配我國內駕照使 用至期滿為止。"
+    },
+    "general": {
+      "usage": "可(得搭配 我國際駕照 使用至期滿 為止)",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於美 國科羅拉多州之國人可 持有效之我國小型車普 通駕駛執照，免筆試免路 考申請換發該州之普通 汽車駕駛執照(class R)"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-89",
+    "region": "北美洲",
+    "country": "(美)夏威夷 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "駕駛需年滿 18 歲，並 搭配我國內駕照使用。"
+    },
+    "general": {
+      "usage": "可(駕駛需 年滿 18  歲，並搭配 我國國際駕 照使用)",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於夏 威夷州之國人，持我國有 效小型車普通駕駛執照  得免筆試免路考，通過視 力測驗後，申請換發該州 第 3 類駕駛執照（Class  3）"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-90",
+    "region": "北美洲",
+    "country": "(美)紐約州 否",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "該州不承認國際駕照 為一有效之駕照，僅能 作為證明駕駛人在其  本國取得有效駕照及 輔助警察人員瞭解我 國內駕照之文字內容。 使用方式"
+    },
+    "general": {
+      "usage": "可（該州承 認任何外國 核發之有效 駕照。）  (外國人士  到紐約州居 住 90 日  後，被視為 該州居民) 在當地使用 情形 需另行申請 該州駕照) 109.9.15 駐紐約 辦事處查詢)",
+      "status": "warning",
+      "notes": "建議與我國際駕照一併 使用，以證明在我國取得 有效駕照及輔助警察人 員瞭解我國內駕照文字 內容。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-91",
+    "region": "北美洲",
+    "country": "(美)紐澤西 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "需與我國內駕照搭配 使用，以利確認駕駛人 身分及克服語言隔閡。"
+    },
+    "general": {
+      "usage": "可(需與我 國際駕照搭 配使用，以  利確認駕駛 人身分及克 服語言隔  閡。)",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於美 國紐澤西州，持我國合法 小型車駕駛執照，支付所 有必要費用並通過視力 檢查，得免筆試且免路 考，申請換發紐澤西州 D 類駕駛執照。申請者原駕 駛執照於核發新駕駛執 照後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-92",
+    "region": "北美洲",
+    "country": "(美)馬里蘭 州",
+    "international": {
+      "usage": "承認 在當地使 用情形",
+      "status": "warning",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "具有美國合法居留身分 及馬里蘭州居住證明之 國人，均可持有效之我國 小型車普通駕照至馬州 使用方式 車輛管理處免試申領該 州之 C 類汽車駕照（Full License Class C）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-93",
+    "region": "北美洲",
+    "country": "(美)密西西 比州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "60 天"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於密 西西比州之國人，均可持 有效之我國小型車普通 駕駛執照，免筆試免路考 申請換發該州之普通汽 車駕駛執照（Class R）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-94",
+    "region": "北美洲",
+    "country": "(美)密西根 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "可使用至效期屆滿為 止"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-95",
+    "region": "北美洲",
+    "country": "(美)密蘇里 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，效期由監理單位視 居留期限認定，最長為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，效期由監理單位視居 留期限認定，最長為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-96",
+    "region": "北美洲",
+    "country": "(美)康涅狄 克州",
+    "international": {
+      "usage": "承認（將 國際駕照 視為外國 所發駕照 之英譯  本）",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "持照人需搭配我國核發 之國際駕照或其他可接 受之駕照英文譯本一同 使用。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-97",
+    "region": "北美洲",
+    "country": "(美)麻薩諸 塞州",
+    "international": {
+      "usage": "否 在當地使 用情形 在當地使 用情形",
+      "status": "danger",
+      "notes": "該 州 不 承 認 國 際 駕 照，惟可做為我國駕照 譯文之輔助文件。 使用方式 使用方式"
+    },
+    "general": {
+      "usage": "可(1 年)  外交部網頁 在當地使用 情形 在當地使用 情形",
+      "status": "success",
+      "notes": "同意年滿 18 歲雙方居民 依下列駕駛執照種類免 試互換：  (一)麻州 Class D 駕照 使用方式 （小客車駕照）及我國普 通小型車駕照。  (二)麻州 Class M 駕照 （機車駕照）及我國普通 重型機車駕照。  (三)麻州 Class DM 駕照 （汽機車兩用駕照）及我 國小型車普通駕照與普 通重型機車駕照。  麻州要求申請免試互換 駕駛執照者須提交 60 天 內核發之駕駛紀錄(包含  無肇事審查證明書及違 規紀錄)，經協商未來將 透過駐處以逐案方式向 本局申請提供違規紀錄。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-98",
+    "region": "北美洲",
+    "country": "(美)喬治亞 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於喬 治亞州持我國合法小型 車普通駕駛執照者，支付  所有必要費用並通過視 力檢查，得免筆試、免路 考，申請換發美國喬治亞 州 C 類駕駛執照。申請者 原駕駛執照於審驗後發 還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-99",
+    "region": "北美洲",
+    "country": "(美)堪薩斯 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於堪 薩斯州之國人，持我國合 法未逾期小型車普通駕 駛執照（Class B），通過 視力測驗，支付所有必要 費用，得免筆試及免路考 申請換發該州之非商用 C lass C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-100",
+    "region": "北美洲",
+    "country": "(美)猶他州 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "仍可搭配我國內駕照 可 使用方式 使用，期限為 6"
+    },
+    "general": {
+      "usage": "在當地使用 情形 個月。 承認我國有 效駕照，需 搭配我國際 駕照使用， 期限為 6 個 月。",
+      "status": "warning",
+      "notes": "使用方式 自即日起年滿 18 歲合法 居留於猶他州，持我國合 法有效小型車以上(包含 Class B、Class D、Clas s E)駕駛執照者，並檢附 駕駛執照審查證明書證 明其駕駛執照有效性，且 支付所有必要費用，並通 過視力檢查及該州交通 規則筆試者，即可免路考 申請換發該州之非商用 C lass D 駕駛執照。)  113.7.4 交運密字第 1137100478 號"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-101",
+    "region": "北美洲",
+    "country": "(美)華盛頓 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "滿 16 歲自入境起准免考 繼續使用我國內駕照 1 年 （為便利執法人員，請另 攜國際駕照）。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-102",
+    "region": "北美洲",
+    "country": "(美)華盛頓 特區",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效之我國內駕照使用。"
+    },
+    "general": {
+      "usage": "可  (短期觀光  需配合持有 效之我國際 駕照使用)。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-103",
+    "region": "北美洲",
+    "country": "(美)奧克拉 荷馬州",
+    "international": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "general": {
+      "usage": "可(自 103. 5.29 起，18 歲以上奧民  眾在我國居 住 1 年以  下，可用奧 州有效駕照 在台駕車。)",
+      "status": "success",
+      "notes": "經許可停留或居留 6 個月 以上，可持奧州 class D 駕照免考換台灣小型車 普通駕照"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-104",
+    "region": "北美洲",
+    "country": "(美)愛荷華 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 30 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於愛 荷華州國人，持我國有效 小型車普通駕駛執照（Cl 使用方式 ass B）、大貨車普通駕駛 執照（Class C）、大客車 普通駕駛執照（Class  D）、聯結車普通駕駛執照  （Class E）之申請者， 通過視力測驗及筆試 後，支付所有必要費用， 得免路考申請換發該州 之非商用 Class C 駕駛執 照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-105",
+    "region": "北美洲",
+    "country": "(美)愛達荷 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲取得愛州合法 居留身分之國人，均可持 有效之我國小型車普通 駕照並檢附 3 個月內之  「中華民國汽車駕駛執 照審查證明書」，經筆試 免路考申領該州之 D 類汽 車駕照（Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-106",
+    "region": "北美洲",
+    "country": "(美)新罕布 什爾州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為入境 60 天 內。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為入境 60 天內。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-107",
+    "region": "北美洲",
+    "country": "(美)新墨西 哥州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "外國旅客進入該州 1 年內得使用 使用方式 （我國旅客可將我國 駕照與有英文說明之 國際駕照併用，或可避 免交通執法人員不識 中文引起誤會）"
+    },
+    "general": {
+      "usage": "可(我國旅客 可將我國駕照 在當地使用 情形 與有英文說明 之國際駕照併 用，以避免引 起誤會)",
+      "status": "success",
+      "notes": "107 年 6 月 26 日簽署駕照 相互承認協定，自即日起 使用方式 年滿 21 歲合法居留於新 墨西哥州之國人，持我國 合法未逾期小型車普通 駕駛執照（Class B）之 申請者，支付所有必要費 用，得免筆試及免路考申 請換發該州之非商用 Cla ss D 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-108",
+    "region": "北美洲",
+    "country": "(美)路易斯 安那州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "90 天（一但合法居留， 即須改持該州駕照）"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "107 年 8 月 14 日簽署免試 相互承認駕照協議，自即 日起年滿 18 歲合法居留 於路易斯安納州之國 人，持我國合法未逾期小 型車普通駕駛執照申請 者，支付所有必要費用， 得免筆試、免路考申請換 發該州之非商用 Class E 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-109",
+    "region": "北美洲",
+    "country": "(美)維吉尼 亞州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 6 個月 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "1.短期觀光需配合持有 效之我國際駕照使用，期 限為 6 個月。 使用方式 2.年滿 18 歲合法居留於 維吉尼亞州之國人，持我 國 1 年以上有效小型車普 通駕駛執照得免路考，通 過該州筆試及視力測驗 後，申請換發該州之普通 汽車駕駛執照（Class  D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-110",
+    "region": "北美洲",
+    "country": "(美)蒙大拿 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照於效期內使用"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "109 年 10 月 10 日起同意 年滿 18 歲持美國蒙大拿 州 D 類駕駛執照的「蒙大  拿州州民」，取得經許可 停(居)留 6 個月以上之證 明(件)者，得於入境之翌 日起依平等互惠原則，通  過筆試及體格檢查、支付 所有必要費用，得免路考 申請換發我國小型車普  通駕駛執照，申請者原駕 駛執照於審驗後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-111",
+    "region": "北美洲",
+    "country": "(美)賓夕法 尼亞州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一.得搭配有效之我國內 駕照使用，期限為 1 年。 二.換照程序:  年滿 18 歲合法居留於賓 夕法尼亞州之國人，均可 使用方式 持有效且未逾期之普通 小型車、大貨車、大客 車、聯結車駕駛執照（Cl ass B、C、D、E）及國際 駕照，支付所有必要費用 及通過視力測驗後，免筆  試免路考換發該州非商 用小型車駕駛執照（Clas s C)"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-112",
+    "region": "北美洲",
+    "country": "(美)德州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "18 至 75 歲之我國觀光 客，入境德州 1 年有 效，惟須與本國駕照一 起使用。（合法居留者 須於 30 日內改持德州 駕照） 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿18歲合法居留於德 州之國人，均可持有效之 我國小型車普通駕駛執  照，免筆試免路考申領該 州之C類汽車駕駛執照（C lass C）。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-113",
+    "region": "北美洲",
+    "country": "(美)德拉瓦 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 60 天。"
+    },
+    "general": {
+      "usage": "可(短期觀 光需配合持 有效之我國 際駕照使 用，期限為 60 天。)",
+      "status": "warning",
+      "notes": "我國與美國德拉瓦州已 簽署駕照相互承認互惠 協定，自即日起年滿 18 歲合法居留於德拉瓦州 之國人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申領該 州之D類汽車駕駛執照（C lass D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-114",
+    "region": "北美洲",
+    "country": "(美)緬因州 可",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-115",
+    "region": "北美洲",
+    "country": "(美)懷俄明 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照於效期內使用"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "106 年 10 月 11 日我國與 美國懷俄明州已簽署駕 照互惠協定，自即日起年 滿 18 歲合法居留於懷俄 明州國人，持我國合法未 逾期小型車普通駕駛執 照（Class B）之申請者， 通過視力測驗，支付所有 必要費用，得免筆試及路 考申請換發該州之非商 用 Class C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-116",
+    "region": "北美洲",
+    "country": "(美)羅德島 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 可 使用方式"
+    },
+    "general": {
+      "usage": "(需搭配 可 在當地使用 情形",
+      "status": "warning",
+      "notes": "於 107 年 9 月 6 日簽署免 年滿 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-117",
+    "region": "北美洲",
+    "country": "州",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": "用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "我國際駕照 使用，期限 為 1 年)",
+      "status": "warning",
+      "notes": "試相互承認駕照協議，自 即日起年滿 18 歲合法居 留於羅德島州之我國國  人，持我國合法小型車普 通駕駛執照（Class B） 之申請者，得免筆試及免  路考申請換發羅州小客 車駕駛執照( C l a s s 1 0)；我國普通重型機車駕 駛執照(Class A2)之申 請者，得免筆試及免路考 申請換發羅州重型機車 駕駛執照(M endorsemen t)。  申請者須持駕駛執照審 查證明書認定所持駕照 有效性，並提供過去 3 年 違規紀錄。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-118",
+    "region": "北美洲",
+    "country": "(美)關島",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "入境關島後可持國際 駕照在關島駕車 30 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "入境關島後可持用該駕 照行駛 30 天， 30 天之效 期屆滿後，得向關島財政 局車輛管理部門申請延 長效期至入境起算 1 年。 (外交部 105.8.2 10521536440) 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-119",
+    "region": "北美洲",
+    "country": "(美)北馬利 安納群島邦",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "入境北馬後可持用該 駕照行駛 30 天"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "入境北馬後可持用該駕 照行駛 30 天"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-120",
+    "region": "北美洲",
+    "country": "(美)波多黎 各自治邦",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可短期使用，執法人員 依持照人身分認定期 限，最長為 6 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "我國與波邦已於 104 年 1 0 月 19 日簽訂「駕照互惠 協定」，凡持有波邦合法  居留身分之國人均可持 有效之我國小型車普通 駕駛執照及國際駕照，免 筆試免路考申領該州之 O  perator 類普通汽車駕駛 執照。申請人須年滿 18 歲，我國駕照於查驗後退 還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-121",
+    "region": "北美洲",
+    "country": "(美)維京群 島",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "在當地使用 情形",
+      "status": "warning",
+      "notes": "我國與美屬維京群島已 於 108 年 1 月 10 日簽署 免試相互承認駕駛執照 協議，自即日起年滿 21 歲合法居留於維島，持我  國合法小型車駕駛執照 至少 3 年者及 3 個月內核 使用方式 發之無肇事證明，支付所 有必要費用並通過筆試 及視力檢查，得免路考申  請換發維島非商用駕駛 執照。申請者繳交之駕駛 執照，將由維島監理機關  收取後寄回我國駐邁阿 密辦事處。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-122",
+    "region": "北美洲",
+    "country": "加拿大 \n安大略省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "有效期間內"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、104 年 12 月 1 日起持 我國 class B、C、D、E(小 型車、大貨車、大客車、 聯結車)駕駛執照 24 個月 以上者，可免試申請換領 安大略省小型車駕駛執 照(Class G)。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-123",
+    "region": "北美洲",
+    "country": "加拿大 \n魁北克省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "有效期限內 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、國人可依規定免試申 使用方式 換魁省駕照。   凡持有臺灣核發正式有 效之駕駛執照，並已取得 加拿大魁北克省之居留  證者，得向該省申請免試 換發同等車類(指 Class  5 類)之普通駕駛執照。符  合上述條件者，得向加該 省汽車保險局提出申請"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-124",
+    "region": "北美洲",
+    "country": "加拿大 \n緬尼托巴省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、國人可依規定免試申 換緬省駕照。  國人持核發有效正式之B類 小型車、C類大貨車、D類大 客車或E類聯結車駕駛執 照，並已取得加國緬尼托巴 省居留證者，得向該省申請 免試換發「第5級最高階段 （Class 5 Stage Full）」 之普通駕駛執照 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-125",
+    "region": "北美洲",
+    "country": "加拿大 \n紐布朗斯維 克省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 3 個月 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "一、建議搭配國際駕照使 用，可使用 90 天。  二、國人可依規定免試申換 紐省駕照。 國人於紐 省換照規定：  (1)凡持有中華民國交通 部核發有效正式之B類小 型車、C類大貨車、D類大 客車或E類聯結車駕駛執 照，並已取得加國紐布朗 斯維克省居留證者，得向 該省申請免試換發第5級 客車（Class 5，passenger vehicle）普通駕駛執照。 (2)駕駛人應年滿18歲，且 需領有該等級駕駛執照至 少2年。  (3)需檢附 3 個月內之「中 華民國汽車駕駛執照審查 證明書」，並需收繳原駕駛 執照於 90 日內送回臺灣 查驗。  (4)外國駕照需回收 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-126",
+    "region": "北美洲",
+    "country": "加拿大 \n諾瓦斯柯西 亞省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用 90 天"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 90 天。)",
+      "status": "warning",
+      "notes": "換照規定：  我國與加拿大諾省於 106 年 4月25日起簽署相互承認備 忘錄，年滿 18 歲合法居留 於諾瓦科西省之國人，持我  國有效 B 類小型車、C 類大 客車、D 類大客車或 E 類聯 結車之駕駛執照滿 2 年以  上，通過視力測驗免試換發 該州「5 級」普通駕駛執照， 持照未滿2年則換發「5N級」駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-127",
+    "region": "北美洲",
+    "country": "加拿大 \n愛德華王子 島省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 120 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "一、建議搭配國際駕照使 用，可使用 120 天。 二、國人可依規定免試申 換愛省駕照。國人於 愛省換照規定：  1.凡持有中華民國交通 部核發有效正式之 B  類小型車、C 類大貨  車、D 類大客車或 E 類聯 結車駕駛執照，並已取 得加國愛德華王子島省 居留證者，得向該省申  請免試換發第 5 級客車 CLASS 5,passenger   vehicle）普通駕駛執 使用方式 照。  ２ . 駕 駛 人 應 年 滿 18 歲，且需領有該等級駕 駛執照至少 2 年 。  3、需檢附 3 個月內之 「中華民國汽車駕駛執 照審查證明書」，並需 收繳原駕駛執照於 90 日 內送回臺灣查驗。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-128",
+    "region": "北美洲",
+    "country": "加拿大 \n西北地方",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配國際駕照使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-129",
+    "region": "北美洲",
+    "country": "加拿大 \n努那福 \n特區",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在當地使用 1 年"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "須與國際駕照併用，可使 用 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-130",
+    "region": "北美洲",
+    "country": "加拿大 \n紐芬蘭及拉 布拉多省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 90 天) 在當地使用 情形",
+      "status": "warning",
+      "notes": "同意年滿 18 歲且持紐省 合法之非商用等級 5 或等 級 5 第 2 等駕駛執照，取 得經許可停(居)留 6 個月 以上之證明（件）者，得 於入境之翌日起經通過 體檢，支付所有必要費 用，得免筆試及免路考換  發我國小型車普通駕駛 執照。   另持紐省合法之非商用 等級 6 或等級 6 第 2 等駕 駛執照，取得經許可停 (居)留 6 個月以上之證明 使用方式 （件）者，得於入境之翌 日起經通過體檢，支付所 有必要費用，年滿 18 歲 得免筆試及免路考換發  我國小型輕型機車駕駛 執照、普通輕型機車駕駛 執照、普通重型機車駕駛 執照；年滿 20 歲得免筆  試及免路考換發我國小 型輕型機車駕駛執照、普 通輕型機車駕駛執照、普 通重型機車駕駛執照、大 型重型機車駕駛執照。原 領有之加國駕駛執照，監 理機關自行銷毀。"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-131",
+    "region": "北美洲",
+    "country": "加拿大 \n沙士卡其灣 省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在該省使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可(需搭配 國際駕照使 用，可使用 90 天) 在當地使用 情形",
+      "status": "warning",
+      "notes": "自 105 年 3 月 1 日起持我 國有效 B 類小型車、C 類 大貨車、D 類大客車或 E 類聯結車駕駛執照 18 個 月以上且居住於沙省 者，可免試換發沙省 Cla  ss 5 駕駛執照(普通小型 車駕駛執照)。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.377Z"
+  },
+  {
+    "id": "country-132",
+    "region": "北美洲",
+    "country": "加拿大 \n育空地方",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在該省使用 120 天"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配國際駕照使用，可 使用 90 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-133",
+    "region": "北美洲",
+    "country": "加拿大 \n亞伯達省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在當地使用 1 年"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 1 年。  二、國人可依規定免試申 換亞省駕照。  104 年 3 月 3 日起開始實 施，合法居留於亞伯達省之 國人，均可持有效之我國小 型車駕駛執照(Class B)、  大 貨 車 駕 駛 執 照 (Class  C)、大客車駕駛執照(Class  D) 或 聯 結 車 駕 駛 執 照 (Class E)，免試申請換發  該省之普通汽車駕駛執照 （Class 5）。亞伯達省將收 繳我國駕駛執照"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-134",
+    "region": "北美洲",
+    "country": "加拿大 \n卑詩省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 180 天。) 在當地使用 情形",
+      "status": "success",
+      "notes": "國人可依規定免試申換卑 詩省駕照。國人可正式且 未逾期超過 3 年之普通小 客車駕駛執照滿 24 個月 者，可免試換領該省 Cla ss 5 駕駛執照(非商用汽 車駕駛執照)；持我國正 式且未逾期超過 3 年之普 通小客車駕駛執照未滿 2 使用方式 4 個月者，可免試換領該 省 Class 7 駕駛執照(非 商用汽車新手駕駛執 照)，俟申請人完成該省 漸進式考照制度，發給正  式小客車駕駛執照。原領 有之駕駛執照由新駕駛 執照之發證單位將原領 有之駕駛執照收繳後銷 毀。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-135",
+    "region": "非洲",
+    "country": "史瓦帝尼 \n107.6..4.交秘字第 1 070016607 號",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可,須換 照",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-136",
+    "region": "非洲",
+    "country": "尼日",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "承認,惟須 經我外館  認證。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-137",
+    "region": "非洲",
+    "country": "布吉納法索",
+    "international": {
+      "usage": "不可,但承  認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "我國駕駛  執照須經 「驗證」後  始能獲布 國承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-138",
+    "region": "非洲",
+    "country": "安哥拉",
+    "international": {
+      "usage": "可,我國際 駕照可於該 在當地使  用情形 國使用，惟 效期僅有 4 5 日。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-139",
+    "region": "非洲",
+    "country": "利比亞",
+    "international": {
+      "usage": "可,承認， 效期 3 個  月。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可,須換 照",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-140",
+    "region": "非洲",
+    "country": "奈及利亞",
+    "international": {
+      "usage": "可(1 個月) (短期赴奈  國商旅者雖 可使用國際 駕照 1 個  月，惟奈國 交通基礎建 設不佳、交 通壅塞、駕 駛逆向、爭 道及闖紅燈 等亂象頻  仍，復因屢 有真、假交 通警察藉機 索賄或詐  騙，故建議 短期商旅者 宜避免駕駛 車輛，以維  護自身安 全。) 在當地使  用情形 113.3.15 改  外研綜字第 1124 700576",
+      "status": "warning",
+      "notes": "可使用 1 個月，以 便參加考試取得當 地駕照，逾期即不 承認。短期赴奈國 商旅者可使用國際 駕照 1 個月。但實 際會有刁難情事。 備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-141",
+    "region": "非洲",
+    "country": "南非",
+    "international": {
+      "usage": "可。其使用 效期視國際 駕照上註明 之有效期限 為止。  112.6.28  1124700576",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-142",
+    "region": "非洲",
+    "country": "查德",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "承認，惟須 經我外館 認證。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-143",
+    "region": "非洲",
+    "country": "迦納共和國 可",
+    "international": {
+      "usage": "(1 年)",
+      "status": "warning",
+      "notes": "否"
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-144",
+    "region": "非洲",
+    "country": "剛果",
+    "international": {
+      "usage": "不可直接使 用(參考備 註說明) 在當地使  用情形",
+      "status": "danger",
+      "notes": "1.國人在剛果共和 國使用國際駕照 必須併持我國國 內駕照及法文譯 本使用。  2.前項之國際/國內 備註 駕照及其法文譯 本必須經我駐法 國代表處或駐普 羅旺斯辦事處驗 證後，方可使用。"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-145",
+    "region": "非洲",
+    "country": "埃及",
+    "international": {
+      "usage": "入境 3 個月 內可持國際 駕照駕車， 但駕車時仍 須同時持有  我國內駕照 以供複驗。",
+      "status": "warning",
+      "notes": "否"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-146",
+    "region": "非洲",
+    "country": "馬拉威",
+    "international": {
+      "usage": "可，使用期 限以國際駕 照上註明之  有效期限為 限。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-147",
+    "region": "非洲",
+    "country": "馬達加斯加",
+    "international": {
+      "usage": "可，使用期 限以國際駕 照上註明之  有效期限為 限。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-148",
+    "region": "非洲",
+    "country": "莫三比克",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-149",
+    "region": "非洲",
+    "country": "聖多美普林 西比",
+    "international": {
+      "usage": "可 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可,承認,惟 駕照須有 在當地使 用情形 效並經翻  譯及驗證",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-150",
+    "region": "非洲",
+    "country": "模里西斯",
+    "international": {
+      "usage": "可，使用期 限以國際駕 照上註明之  有效期限為 限。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-151",
+    "region": "非洲",
+    "country": "賴比瑞亞",
+    "international": {
+      "usage": "可 , 承認外 國 ( 包括我 國 ) 國際駕 駛執照，並  准持用，惟 規定應於 3 個月內申換  賴國駕駛執 照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可,承認外 國(包括我 國)國內駕 駛執照，並  准持用，惟 規定應於 3 個月內 申換賴國 駕駛執照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-152",
+    "region": "非洲",
+    "country": "賴索托王國",
+    "international": {
+      "usage": "可。  一、在特許 情 況  下，國  人持我  國際駕  照可在 在當地使  用情形 賴國駕  駛。  二、我國國 際駕照  不得逕  行更換  成賴國  駕照；  三、國人倘 持我國  國際駕  照，同  時須攜  帶國內  駕照備  查。",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可,國人持 我國國內 駕照，可在 賴國駕駛 之情形包 括：  一、駕照必 在當地使 用情形 須是英  文，或  附英譯  文。  二、駕照上 必須附  駕駛人  之照片  與 簽  名。",
+      "status": "success",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-153",
+    "region": "非洲",
+    "country": "象牙海岸",
+    "international": {
+      "usage": "未有居留 證前可使 用  111.10.27亞  非西字第  1111701721  號 在當地使  用情形",
+      "status": "warning",
+      "notes": "象國民眾開車習 慣搶道，並鳴按 喇叭及閃車頭燈  示警，加上道路 分隔線經常模糊 不清，不熟悉此  間開車習慣的國 人，特別是短期 來象停留者，宜 備註 避免自行開車， 以 確 保 自 身 安 全，遠離車禍糾 紛。"
+    },
+    "general": {
+      "usage": "不可  需換成國 際駕照或 當地駕照  111.10.27亞 非西字第 1111701721 號 在當地使 用情形",
+      "status": "warning",
+      "notes": "象國民眾開 車習慣搶 道，並鳴按喇  叭及閃車頭 燈示警，加上 道路分隔線  經常模糊不 清，不熟悉此 間開車 習 慣 備註 的國人，特別 是短期來象 停留者，宜避 免自行開 車，以確保自  身安全，遠離 車禍糾紛。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-154",
+    "region": "澳洲及大洋洲",
+    "country": "東加",
+    "international": {
+      "usage": "可。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可。  因我國內 駕照係以 中文書 寫，且駕駛  方向與上 述國家相 反，故不承  認我國內 駕照。",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-155",
+    "region": "澳洲及大洋洲",
+    "country": "索羅門群島",
+    "international": {
+      "usage": "承認我國國 內及國際駕 照；惟實務  上，在索持 用我國內駕 照，須另附  經我駐館驗 證之英文譯 本。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "索國予我國人 免試換照之相 關規定請參照  本 104 年 3 月 3 日 SLB0124 號 電附件「國人免 試申換索羅 門 駕照須知表」。  交通部104.12.4交路字 第1040038960號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-156",
+    "region": "澳洲及大洋洲",
+    "country": "紐西蘭",
+    "international": {
+      "usage": "可（限 1 年） 否",
+      "status": "success",
+      "notes": "1 年"
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-157",
+    "region": "澳洲及大洋洲",
+    "country": "馬紹爾群島 可，惟在馬 否",
+    "international": {
+      "usage": "在當地使  用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "我國人持我國 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-158",
+    "region": "澳洲及大洋洲",
+    "country": "共和國",
+    "international": {
+      "usage": "國停留超過 30 日者，仍 需取得馬國 駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": "有效駕照可免 試申換馬國駕 照，詳見 104 年  3 月 3 日 MHL0 081 號電附件 「國人免試申 換馬紹爾群共 和國駕照須知 表」。交通部 104.12. 4 交路字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-159",
+    "region": "澳洲及大洋洲",
+    "country": "斐濟",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可。  因我國內 駕照係以 中文書 寫，且駕駛  方向與上 述國家相 反，故不承  認我國內 駕照。",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-160",
+    "region": "澳洲及大洋洲",
+    "country": "萬那杜",
+    "international": {
+      "usage": "可 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可。  因我國內 駕照係以 中文書 寫，且駕駛  方向與上 述國家相 在當地使 用情形 反，故不承 認我國內 駕照。",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-161",
+    "region": "澳洲及大洋洲",
+    "country": "澳大利亞 \n（西澳）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形",
+      "status": "warning",
+      "notes": "一、具下列身分之 訪客駕駛人（v  isiting driver  s），得持憑有效  國內及國際駕  照在西澳駕  駛。包括：觀  光客、商務旅  行人士、持度  假打工簽證  者、在西澳暫  時就學及工作  者、外國駐防  人員及眷屬。  二、倘在西澳取得 永久居留權並  定居，現行國  內及國際駕照  僅能持用 3 個  月。 備註"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄） 在當地使 用情形",
+      "status": "warning",
+      "notes": "一、具下列身 分之訪客  駕駛人（vi  siting drive  rs），得持憑  有效國內  及國際駕  照在西澳  駕駛。包  括：觀光  客、商務旅  行人士、持  度假打工  簽證者、在  西澳暫時  就學及工  作者、外國  駐防人員  及眷屬。  二、倘在西澳 取得永久  居留權並  定居，現行  國內及國  際駕照僅 備註 能持用 3 個  月。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-162",
+    "region": "澳洲及大洋洲",
+    "country": "澳大利亞 \n（坎培拉特 \n區）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形",
+      "status": "warning",
+      "notes": "一、具下列身分之 訪客駕駛人（v  isiting driver  s），得持憑有效  國內（尚須倂  附 官 方 英 譯  本）及國際駕  照在首都特區  駕駛。包括：  觀光客、商務  人士、探訪親  友者、持打工  度假簽證者及  在首都特區暫  時就學及工作  者。  二、倘在首都特區 成為居民並定  居，現行國內  及國際駕照僅  能持用 3 個月。 備註"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄） 在當地使 用情形",
+      "status": "warning",
+      "notes": "一、具下列身 分之訪客  駕駛人（vi  siting drive  rs），得持憑  有效國內  （ 尚 須 倂  附 官 方 英  譯本）及國  際駕照在  首都特區  駕 駛 ， 包  括：觀光  客、商務人  士、探訪親  友者、持打  工度假簽  證者及在  首都特區  暫時就學  及工作者。  二、倘在首都 特區成為  居民並定  居，現行國  內及國際 備註 駕照僅能  持用 3 個  月。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-163",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（北領地特 \n區）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形",
+      "status": "warning",
+      "notes": "於北領地駕駛僅限 抵當地 3 個月內有 效。  （開車時應備文  件：一、有效我國 普通駕照（不可過 期）  二、有效國際駕照 三、經北領地政府 指定翻譯（ITSNT） 之我國駕照英譯本  四、有效我國護照）3 個月後需考當地 駕照，方可開車。 114.10.16 布里字第 11413704840  號 備註"
+    },
+    "general": {
+      "usage": "於北領地  駕駛僅限 抵當地 3  個月內有 效。  （開車時  應備文  件：一、有 效我國普  通駕照（不 可過期） 二、有效國 際駕照  三、經北領 地政府指 定翻譯  （ITSNT）  之我國駕  照英譯本 在當地使 用情形 四、有效我 國護照） 3 個月後 需考當地 駕照，方可 開車。",
+      "status": "warning",
+      "notes": "自 2025 年 5 月 1 日起，我國駕照 持有者不可免 試換照。  需符合年齡資 格並通過當地 筆試及路考合 格後，方可申請 當地駕照。 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-164",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（南澳州）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形",
+      "status": "warning",
+      "notes": "一、限持有效短期 停留簽證，例  如學生簽證、  工作簽證或觀  光簽證。  二、限使用 12 個 月。  三、我國際駕照需 於 有 效 期 限  內，且仍需攜  帶我國駕照及  駕照翻譯文  件。 備註"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄） 在當地使 用情形",
+      "status": "warning",
+      "notes": "一、需持有效 短期簽  證，例如學  生簽證、工  作簽證或  觀光簽證。  二、我國駕 照 須 於期限  內。  三、我國駕照 須 附合格  英文翻譯  證明，或與  我國際駕  照併用。  四、同 時 攜 帶 我 國 護  照，以備警  察攔檢供  查驗。 備註 五、若 取 得 澳 洲永久居  留權，則必  須於3個月  內 轉換成  南 澳洲駕  照。  六、自 2025 年 5 月 1 日  起，我國駕  照持有者  不可免試  換照。需符  合年齡資  格並通過  當地筆試  及路考合  格後，方可  申請當地  駕照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-165",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（昆士蘭 \n州）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形 在當地使  用情形",
+      "status": "warning",
+      "notes": "持居留簽證者  （Resident   Visa）於昆士蘭駕 駛僅限抵當地 3 個 月內有效。  （開車時應備文 備註 件：一、有效我國 普通駕照（不可過 期）  二、有效國際駕照 三、經昆士蘭政府 指定翻譯（NAATI） 之我國駕照英譯本  四、有效我國護照）一、3 個月後需申 領當地駕照，  方可開車。 備註"
+    },
+    "general": {
+      "usage": "持居留簽  證者  （Residen  t   Visa）於昆 士蘭駕駛 在當地使 用情形 僅限抵當 地 3 個月 內有效。 （開車時  應備文  件：一、有 效我國普  通駕照（不 可過期） 二、有效國 際駕照  三、經昆士 蘭政府指 定翻譯  （NAATI）  之我國駕  照英譯本 四、有效我 國護照） 3 個月後 需申領當 地駕照，方 在當地使 用情形 可開車。",
+      "status": "warning",
+      "notes": "。 備註 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-166",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（塔斯馬尼 \n亞州）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄）",
+      "status": "warning",
+      "notes": "一、限持有效短期 簽證，例如學  生簽證、工作  簽證或觀光簽  證。  二、限使用 6 個月， 得申請延長。  三、我國際駕照需 於期限內。"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄）",
+      "status": "warning",
+      "notes": "一、需持有效 短期簽證，  例如學生簽  證、工作簽  證或觀光簽  證。  二、我國駕照 需於期限  內。  三、我國駕照 附有合格英  文翻譯證  明，或與我  國際駕照併  用。  四、限使用 6 個 月，得申請  延長。  五、若 取 得 澳 洲永久居留  權，則必須  於 3 個月內  轉換成塔洲  駕照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-167",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（新南威爾 \n斯州）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形 在當地使  用情形",
+      "status": "warning",
+      "notes": "來新南威爾斯州短 期停留(不超過 6 個 月)之台灣旅客，如 備註 觀光、商務旅行、 短期探親等得持憑 有效台灣駕照搭配  國際駕照(或合格之 英文翻譯)在新南威 爾 斯 州 駕駛小客 車。  惟新南威爾斯居民 或長期簽證持有者 需依規定換發或考 試取得新州之駕 照，不適用上述做 法。 備註"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄） 在當地使 用情形 在當地使 用情形",
+      "status": "warning",
+      "notes": "一、短期停留 旅客如前  述得以有 備註 效台灣 駕  照 搭 配 國  際駕照或  合格翻譯  之 駕照英  譯 本 在 新  南威爾斯  州開車。  二、新南威爾 斯住民或  長期簽證  持有者需  依規定換  發或考試  取得新州  之駕照。  三、至 2025 年 10 月 31 日  前，25 歲  （含）以上  持 有 有 效  台 灣 駕 照  超過3年之  國人可免  經筆試及  路考，依相  關程序 換  發新州駕 備註 照（以小型  汽車及機  車為限，未  滿 25 歲或  持照未滿 3  年 者 仍 須  參 加 考  試，自 102  年 2 月 28  日實施）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-168",
+    "region": "澳洲及大洋洲",
+    "country": "澳洲 \n（維多利亞 \n州）",
+    "international": {
+      "usage": "有條件使用 （請參考備 註欄） 在當地使  用情形",
+      "status": "warning",
+      "notes": "一、持有效停留簽 證，停留期限 6 個月以內。  二、我國際駕照需 於有效期限  內。 備註"
+    },
+    "general": {
+      "usage": "有條件使 用（請參考 備註欄） 在當地使 用情形",
+      "status": "warning",
+      "notes": "一、 於效期內之 我國駕照可  於抵達維多  利亞州後 6  個月內使  用。  二、 應備我國駕 照及英文翻  譯（經澳洲  當地「全國  翻譯師認證  協會  （NAATI）」 合格翻譯師  翻譯師之英  譯本或與我  國際駕照併  用。 備註 三、 自 2025 年 5 月 1 日起，  25 歲（含）  以上持有駕  照國需參加  學習駕照筆  試(Learner   Permit   Test)、並預  約驗證我國  駕照及參加  危險概念測  試(Hazard   Perception   Test)，以上  均通過後再  報名預約參  加路考  (Drive   test)。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-169",
+    "region": "澳洲及大洋洲",
+    "country": "諾魯共和國 可",
+    "international": {
+      "usage": "在當地使  用情形",
+      "status": "warning",
+      "notes": "無 備註"
+    },
+    "general": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "繳交金額與使 用期限請參照 本（104）年 3 月 3 日 NRU008 1 號電附件「國 人免試申換諾 魯駕照須知 表」。交通部 104.12. 備註 4 交路字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-170",
+    "region": "澳洲及大洋洲",
+    "country": "薩摩亞",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "否"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "我國人可於薩 摩亞免試申換 駕照，詳見本（1  04）年 3 月 3 日 FJI0070 號電附 件「國人免試申 換薩摩亞駕照 須知表」。交通部 1 04.12.4交路字第10400 38960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-171",
+    "region": "澳洲及大洋洲",
+    "country": "帛琉",
+    "international": {
+      "usage": "可  持國際駕照 者，可在帛 琉駕車(效  期為 30  天)，惟需出 示駕駛人之 護照及駕照 正本以備查 驗。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "持有他國 有效駕照 及國際駕  照 之外國 人僅得於 30 日內免 持帛琉駕 照駕駛",
+      "status": "warning",
+      "notes": "相關規定請見 本（104）年 9 月 8 日 PLW034 7 號電附件「國 人免試申換帛 琉駕照須知 表」。交通部 104.12. 4 交路字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-172",
+    "region": "澳洲及大洋洲",
+    "country": "吐瓦魯",
+    "international": {
+      "usage": "在當地使  用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "吐瓦魯國相關 規定請見本（10 4）年 3 月 2 日 T UV0059 號電附 件「國人免試申 換吐瓦魯國駕 備註 照須知表」。交通 部 104.12.4 交路字第 1 040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-173",
+    "region": "澳洲及大洋洲",
+    "country": "吉里巴斯",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "吉里巴斯相關 規定請見本（10 4）年 3 月 3 日 KIR0061 號電 附件「國人免試 申換吉里巴斯 駕照須知表」。交 通部104.12.4交路字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-174",
+    "region": "澳洲及大洋洲",
+    "country": "密克羅尼西 亞聯邦",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "該國予我國國民落 地簽，可於停留期 間同時持有效之我 國內及國際駕照使 用。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "該國予我國 國 民落地簽，可於 停留期間同時  持有效之我國 內及國際駕照 使用。交通部 104.1  2.4交路字第104003896 0 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-175",
+    "region": "澳洲及大洋洲",
+    "country": "法屬玻里尼 西亞",
+    "international": {
+      "usage": "本國駕照及 國際駕照可 駕駛至多 1 年  (108.8.2 外 歐南字第 1 0800272760 號)",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-176",
+    "region": "亞洲",
+    "country": "土耳其 \n不丹",
+    "international": {
+      "usage": "可(汽車)  (入境 6 個  月,併同我 國護照使 用)  (112.5.11) 可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-177",
+    "region": "亞洲",
+    "country": "中國大陸",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "持中國大陸駕照須 實習期滿，得以筆 試及格換領台灣駕 照，但大型客車、牽 引車、中型客車、大  型貨車仍須實地測 試。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-178",
+    "region": "亞洲",
+    "country": "香港",
+    "international": {
+      "usage": "可  （最長連續 使用 1 年） 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  (香港運輸 署查詢駕 在當地使 用情形 照狀態網  頁)  https://ww w.gov.hk/t c/residents /transport/ drivinglice nse/ocdls.  htm",
+      "status": "warning",
+      "notes": "（欲申領香港駕  照，申請人須填妥 表格＃TD63A- 備註 「免試換領香港駕 駛執照申請書」乙 份，遞交時須一併 附上申請人護照及 原有效駕照之正、 副本、最近 3 個月 香港當地地址證明  （97.9.16 起），到 香港運輸署牌照事 務處辦理查詢電 話：（852）2804-2 636，網址 www.t d.gov.hk （香港運 輸署查詢電話：（8 52）2804-2600）"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-179",
+    "region": "亞洲",
+    "country": "澳門",
+    "international": {
+      "usage": "可  （持我國國 際駕照在澳 門駕駛，首  1 4 日免登 記得逕持我 國國際駕照 配合我國護 照及旅客抵  澳申請表可 在澳門駕 駛。超過 14 日在使用前 在當地使  用情形 需持向澳門 治安警察局 交通廳作有  關免費登記 手續後，持 該廳核發之 單張憑證， 於效期內隨 同國際駕照 使用。如未 作登記手續 而被澳門警 方查獲，將 被開具澳門 幣三百元之 未登記之罰 款。）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  （持我國  內或國際 駕照搭配 我國護照 及有效入  境申請表， 擬於澳門 停留超過 14 天者， 備齊應備 文件親臨 澳門交通 在當地使 用情形 警司處登 記申請。未 超過 14 天  毋須登 記。）",
+      "status": "success",
+      "notes": "我國駕照在當地使 用之條件為請見本 （104）年 3 月 3 日 MAC0001 電之附 件「我國內/國際駕 照在澳門地區直接 使用須知表」。 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-180",
+    "region": "亞洲",
+    "country": "巴布亞紐幾 內亞",
+    "international": {
+      "usage": "可，惟倘住 超過 6 個月 需換領巴紐 駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可，惟倘住 超過 6 個 月需換領 巴紐駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-181",
+    "region": "亞洲",
+    "country": "巴林",
+    "international": {
+      "usage": "可(1 個月) 112.5.12 外 交部電",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-182",
+    "region": "亞洲",
+    "country": "巴基斯坦",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-183",
+    "region": "亞洲",
+    "country": "日本",
+    "international": {
+      "usage": "否 在當地使  用情形",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可，我國駕 照 及日文 在當地使 用情形 譯 本 可 於 當地直接 使用。  交通部 104.12. 4 交路字第 1040 038960 號函",
+      "status": "success",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-184",
+    "region": "亞洲",
+    "country": "以色列",
+    "international": {
+      "usage": "可  1 年（之後 須取得以國 駕照）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可  1 年（之後 須取得以 國駕照）",
+      "status": "warning",
+      "notes": "以色列駕駛執照之 以色列國民，年齡 符合我國法律規定  者，取得經許可停 (居)留 6 個月以上 之證明（件）者，  得於入境之翌日起 依平等互惠原則， 提供駕駛執照譯本 及驗證、通過體格 檢查，並支付所有  必要費用，得免筆 試、免路考換發相 對應之駕駛執照， 申請者原駕駛執照  於審驗後發還。 (109.10.13 交路字第  1090027854 號)"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-185",
+    "region": "亞洲",
+    "country": "卡達",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-186",
+    "region": "亞洲",
+    "country": "尼泊爾",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 在當地使  用情形 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-187",
+    "region": "亞洲",
+    "country": "伊朗",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "持有短期停留之 商務或觀光簽證， 可使用效期內之  我國國際駕照。倘 獲長期之居留簽 證，依規定須使用 當地駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-188",
+    "region": "亞洲",
+    "country": "印尼",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "效期內"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-189",
+    "region": "亞洲",
+    "country": "印度",
+    "international": {
+      "usage": "可 ( 國際駕 照有效期限 內，最長可 使用一年)",
+      "status": "warning",
+      "notes": "國際駕照持用人 需併持我國國內 駕照使用。"
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-190",
+    "region": "亞洲",
+    "country": "沙烏地阿拉 伯",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": "不換發當地駕照， 僅可使用 1 個月。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-191",
+    "region": "亞洲",
+    "country": "汶萊",
+    "international": {
+      "usage": "可  3 個 月 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "長期居留  者，不可 直 接 使  用 我 國 駕 照 在當地使 用情形",
+      "status": "warning",
+      "notes": "須親至汶萊陸路交 通局面試， 通過 後再進行筆試及路 考(僅有 手排  車)。 須準備下列 文件： 1.有效駕 照正本及影本 2 份，以 及經我駐 處驗證之英譯本。 2.我國護照正本及 影本。 備註 3.汶萊工作准證。 4.汶萊身分證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-192",
+    "region": "亞洲",
+    "country": "孟加拉",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-193",
+    "region": "亞洲",
+    "country": "阿拉伯聯合 大公國",
+    "international": {
+      "usage": "可,限小型 車,僅限持 觀光簽證入  境者在停留 期限內租車 使用。  (外研綜字  1124700576 函)",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "不准使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-194",
+    "region": "亞洲",
+    "country": "阿曼",
+    "international": {
+      "usage": "可(3 個月) 須帶國內駕 照備查,限 小型車  1120628(外 研綜字 112 4700576  函)",
+      "status": "success",
+      "notes": "3 個月。停留阿曼 期間可使用我國 國際駕照租用懸 掛紅色車牌之出 租車輛。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-195",
+    "region": "亞洲",
+    "country": "俄羅斯聯邦",
+    "international": {
+      "usage": "持我國國際 駕照，自抵 達俄羅斯起 在當地使  用情形 半年內可使 用，倘超過 上述期限則 必須更換俄 羅斯駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "danger",
+      "notes": "否 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-196",
+    "region": "亞洲",
+    "country": "柬埔寨",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-197",
+    "region": "亞洲",
+    "country": "科威特",
+    "international": {
+      "usage": "可  (111.11.16 外  亞非阿字  1110457389 )",
+      "status": "success",
+      "notes": "我國公民可於訪 問停留科國期間 (Visitor)持有效國 際駕照駕車。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-198",
+    "region": "亞洲",
+    "country": "約旦",
+    "international": {
+      "usage": "可  （限在我國 際駕照有效 期間內租用 車）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-199",
+    "region": "亞洲",
+    "country": "泰國",
+    "international": {
+      "usage": "可(110.7.6  交路字第  1100017225 號) 在當地使  用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-200",
+    "region": "亞洲",
+    "country": "馬來西亞",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "僅適用在馬來西 亞停留不超過 12 個月的外籍人  士，長期居留簽 證者必須依照馬 國民眾申請駕照 程序申辦駕照  （包括筆試、路  考等）。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "馬來西亞政府宣布 自 2025 年 5 月 19 日起不接受所有外 國駕照轉換為馬來 西亞駕照申請，外 籍人士必須依照馬 國民眾申請駕照程  序申辦駕照（包括 筆試、路考等）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-201",
+    "region": "亞洲",
+    "country": "斯里蘭卡",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-202",
+    "region": "亞洲",
+    "country": "菲律賓",
+    "international": {
+      "usage": "可（在國際 駕照有效期 限內,不超 在當地使  用情形 過 1 年）",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "我國有效駕照須翻 譯成英文並經我駐 菲 律 賓 代 表 處 驗 備註 證。交通部 104.12.4 交路 字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-203",
+    "region": "亞洲",
+    "country": "越南",
+    "international": {
+      "usage": "不可。(我國 非 1968 年 維也納公約 締約國)(10 9.5.8 駐越 南台北經濟 文化辦事 處)  承認我國國 際及國內駕 照，但無法  持國際駕照 直接使用。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "需將我國駕照翻譯 成越文（國際駕照 如有越文免翻譯） 並經公證或駐處驗 證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-204",
+    "region": "亞洲",
+    "country": "新加坡",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "使用時須同時攜 帶國際駕照及國 內駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-205",
+    "region": "亞洲",
+    "country": "蒙古",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-206",
+    "region": "亞洲",
+    "country": "寮國",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "交通部 104.12.4 交路字第 1 040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-207",
+    "region": "亞洲",
+    "country": "緬甸",
+    "international": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-208",
+    "region": "亞洲",
+    "country": "韓國",
+    "international": {
+      "usage": "可  （111.2.23 在當地使  用情形 交路密字第 1117100138 號）",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "申換韓國駕照係一 次核發 10 年效期 備註 之當地駕照交通部 10 4.12.4 交路字第 104003896 0 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-209",
+    "region": "亞洲",
+    "country": "黎巴嫩",
+    "international": {
+      "usage": "可  (112.2.24  1120023883) 外交部亞非  司",
+      "status": "warning",
+      "notes": "黎國對於他國駕 照的規定均不定 期更新，建議國 人必要時可先聯 繫 Lebanon Auto  mobile Associatio n (電話：+961-1- 893-413)洽詢。"
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-210",
+    "region": "中南美洲",
+    "country": "巴哈馬",
+    "international": {
+      "usage": "可。短期觀光 可使用 3 個 月。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-211",
+    "region": "中南美洲",
+    "country": "聖文森",
+    "international": {
+      "usage": "可,但國際駕 照須經聖國 稅捐處監理 單位免費蓋 戳記後始生  效，其效期同 國際駕照效 期。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否,惟可據 以申換臨 時駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-212",
+    "region": "中南美洲",
+    "country": "千里達",
+    "international": {
+      "usage": "可。僅能使用 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-213",
+    "region": "中南美洲",
+    "country": "格瑞那達",
+    "international": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-214",
+    "region": "中南美洲",
+    "country": "厄瓜多",
+    "international": {
+      "usage": "依據厄國交 通法規定，厄 國承認外國  人所持國際 駕照，惟僅可 使 用 1 個 月。如欲繼續 於厄境駕 在當地使用 情形 駛，須換考當 地駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "承認情形 同國際駕 照（同左） 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-215",
+    "region": "中南美洲",
+    "country": "巴西",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-216",
+    "region": "中南美洲",
+    "country": "巴拉圭",
+    "international": {
+      "usage": "可。  國際駕照可 使用至效期 截止日。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可。  觀光客於 停留巴國 90 天內， 得使用我 國駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-217",
+    "region": "中南美洲",
+    "country": "尼加拉瓜",
+    "international": {
+      "usage": "不可  (112.12.8 修改)外 研綜字 112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可  (112.12.8 修改) 外研綜字  112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-218",
+    "region": "中南美洲",
+    "country": "哥斯大黎加",
+    "international": {
+      "usage": "可。  持效期內之 我國國際駕 照及護照可 在哥國駕駛 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可。  持效期內 之我國國 內駕照及  護照可在 哥國駕駛 30 天，尚 在申請居 留程序者 經提出證 明後可延 至 90 天。",
+      "status": "success",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-219",
+    "region": "中南美洲",
+    "country": "巴拿馬",
+    "international": {
+      "usage": "可。  使用期限自 在當地使用 情形 入境日起至 簽證准予停 留期限（巴簽 證准予停留  期限多為 90 天），期間須 隨身攜帶護 照供查驗；或 於入境後隨 即申請換發 同簽證准予 停留期限之 巴拿馬駕駛 許可，使用期 間毋需隨帶 護照，以上兩 種情形可於 准予停留期 間到期後至 移民局申請 延長停留，再 持憑向交通 局申請換發 與准予停留 期限相同之 巴拿馬駕駛 許可。 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "general": {
+      "usage": "可。  使用期限 在當地使 用情形 自入境日 起至簽證 准予停留  期限（巴簽 證准予停 留期限多  為 9 0 天），期間 須隨身攜 帶護照供 查驗；或於 入境後隨  即申請換 發同簽證 准予停留  期限之巴 拿馬駕駛 許可，使用  期間毋需 隨帶護 照，以上兩 種情形可  於准予停 留期間到 期後至移  民局申請 延長停 留，再持憑 在當地使 用情形 向交通局 申請換發 與准予停 留期限相 同之巴拿 馬駕駛許 可。",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-220",
+    "region": "中南美洲",
+    "country": "聖克里斯多 福",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-221",
+    "region": "中南美洲",
+    "country": "牙買加",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-222",
+    "region": "中南美洲",
+    "country": "安地卡",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-223",
+    "region": "中南美洲",
+    "country": "荷屬聖馬丁 不可",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-224",
+    "region": "中南美洲",
+    "country": "智利",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-225",
+    "region": "中南美洲",
+    "country": "瓜地馬拉",
+    "international": {
+      "usage": "入境後簽證 准予停留之 期間內可以 使用（持我國  護照可免簽 證進入瓜 在當地使用 情形 國，最長可停 留 3 個月）， 如申請准予 延長停留，在 核准停留之  期間內可以 使用。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "入境後簽 證准予停 留之期間 內可以使 用（持我國 護照可免 在當地使 用情形 簽證進入 瓜國，最長 可停留 3 個月），如 申請准予 延長停 留，在核准 停留之期 間內可以 使用。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-226",
+    "region": "中南美洲",
+    "country": "委內瑞拉",
+    "international": {
+      "usage": "可(30 天)  委內瑞拉為 獨裁政權，法 治不彰，對我 極不友好，基  本上不核發 我國人商務 或觀光入境 簽證，入境國 人是否適用 上述規定，建 議自行再向 委國相關單 位查證。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-227",
+    "region": "中南美洲",
+    "country": "多明尼加",
+    "international": {
+      "usage": "可,使用期限 原則為30天 (我國人免簽 停留期限) 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可。  持我國內 駕照不可 逕於多國 在當地使 用情形 境內開 車，可經換 照程序，向  多國監理 站申辦一 般駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.378Z"
+  },
+  {
+    "id": "country-228",
+    "region": "中南美洲",
+    "country": "宏都拉斯",
+    "international": {
+      "usage": "不可  (112.12.8 修改)外 研綜字 112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可  (112.12.8 修改) 外研綜字  112400576)",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-229",
+    "region": "中南美洲",
+    "country": "貝里斯",
+    "international": {
+      "usage": "可(小型車，3 個月)  (113.3.15 改)  (外研綜字  112400576) 在當地使用 情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形",
+      "status": "warning",
+      "notes": "我國人在貝國 合法居住滿 1 年 後，得檢具以下 相關證件向貝  國交通監理處 申請免試換發 貝國駕照：居留 證影本、我國有  效駕照影本、體 檢證明、駕照申 請書、照片 2 張 。  首次申請規費 90 貝幣(折合約 備註 45 美元)，駕照 效期 1 年，嗣後 更新駕照之效 期為 1 年，規費 為 60 貝幣(約折 合 30 美元)"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-230",
+    "region": "中南美洲",
+    "country": "阿根廷",
+    "international": {
+      "usage": "可。  自發照日起 一年為限。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-231",
+    "region": "中南美洲",
+    "country": "烏拉圭",
+    "international": {
+      "usage": "可。  （僅限於觀 光期間，最長 至 6 個月為 限。） 在當地使用 情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可  (110.10.21 拉 美南字第 11023 55328 號) 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-232",
+    "region": "中南美洲",
+    "country": "玻利維亞",
+    "international": {
+      "usage": "可。  一、短期觀光 停留者可  持用我國  國際駕  照。  二、於玻居留 者需持國  際駕照至  各省監理  處核備。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可,承認。 一、短期觀 光停留  者可持  用我國  內 駕  照。  二、於玻居 留者需  持我國  內駕照  至各省  監理處  換發。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-233",
+    "region": "中南美洲",
+    "country": "哥倫比亞",
+    "international": {
+      "usage": "可。  居留國外而 暫時返國居 住之哥倫比 亞人及居留 哥國之外人  持有外國合 法駕駛執 照，且該駕駛 執照發照國 與該國具外 交或商業關 在當地使用 情形 係時，持照人 可依規定換 領同等級之 哥國駕駛執 照。  持觀光簽證 或異於居留 簽證之其他 簽證之外  人，在所持外 國駕駛執照 及簽證有效 期間內，可以 該等證件在 哥國境內行 駛（但不可駕 駛公車）。惟 哥國交通部 官員告稱，該 駕駛執照應 譯成西文並 經公證。 在當地使用 情形",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "general": {
+      "usage": "不可,但承 認。  居留國外 而暫時返 國居住之 哥倫比亞 人及居留 哥國之外 人持有外 國合法駕 駛執照，且 該駕駛執 在當地使 用情形 照發照國 與該國具 外交或商 業關係 時，持照人 可依規定 換領同等 級之哥國 駕駛執照。 持觀光簽 證或異於 居留簽證 之其他簽 證之外 人，在所持 外國駕駛 執照及簽 證有效期 間內，可以 該等證件 在哥國境 內行駛（但 不可駕駛 公車）。惟 哥國交通 部官員告 稱，該駕駛 執照應譯 在當地使 用情形 成西文並 經公證。",
+      "status": "warning",
+      "notes": "備註 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-234",
+    "region": "中南美洲",
+    "country": "海地共和國 承認",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可,但承 認。  （惟需翻  譯英文或 法文並依 規定辦理 驗證。）",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-235",
+    "region": "中南美洲",
+    "country": "秘魯",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-236",
+    "region": "中南美洲",
+    "country": "墨西哥",
+    "international": {
+      "usage": "可  (在墨短期停 留原則可使 用我國核發  之國際駕照 駕車)外交部 網站  墨國 32 州 規定要求不 盡相同,詳情 可向擬申辦  之州政府主 管機關。",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可,鑒於我 國駕照僅 有中文資  料,建議國 人使用國 際駕照,以 利當地執 法機關民 間租車業  者辨識。 (外研綜字第 11 24700576)",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-237",
+    "region": "中南美洲",
+    "country": "薩爾瓦多",
+    "international": {
+      "usage": "不可 在當地使用 情形 112..6.28 外研綜 字第 1124700576",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "不可 在當地使 用情形 112..6.28 外研 綜字第 1124700 576",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-238",
+    "region": "中南美洲",
+    "country": "聖露西亞",
+    "international": {
+      "usage": "可(小型車  3個月)  112.12.8 改  外研綜字第  1124700576",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": "交通部104.12.4  交路字第1040038960號 函"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-239",
+    "region": "北美洲",
+    "country": "(美)內布拉 斯加州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-240",
+    "region": "北美洲",
+    "country": "(美)內華達 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "國際駕照非必備（not  required for foreig n vi-sitor），建議隨 身攜帶我國駕照。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 21 歲居住於內華達 州之國人，持有我國有效 且未逾期之小型車普通  駕駛執照，支付所有必要 費用及通過視力測驗及 筆試後，得免除道路駕駛 測試換發該州非商用 Cla ss C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-241",
+    "region": "北美洲",
+    "country": "(美)加州",
+    "international": {
+      "usage": "否 在當地使 用情形 在當地使 用情形",
+      "status": "danger",
+      "notes": "該州法律不承認國際 駕照。國際駕照僅係我 國駕照之翻譯資訊。 使用方式 使用方式"
+    },
+    "general": {
+      "usage": "可(包括有 身分證之國 民,但不適 在當地使用 情形 用持居留證 者)109.10.14  (持台灣居  留證者不得 使用加州駕 照,但持台 灣身分證者 可使用加州 駕照) 在當地使用 情形",
+      "status": "success",
+      "notes": "該州僅承認外國旅客其 本國之有效駕照。考慮我 國駕照僅具中文，美方人 使用方式 員不易判讀，建議國人赴 該州觀光旅遊除攜帶我 國駕照外，另備國際駕 照，或有助美方人員判 讀。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-242",
+    "region": "北美洲",
+    "country": "(美)北卡羅 來納州",
+    "international": {
+      "usage": "可(60 天)",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用。觀光客得於停留期 間使用，具居民身分者 得使用 60 天。"
+    },
+    "general": {
+      "usage": "可(60 天)",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用。觀光客得於停留期間 使用，具居民身分者得使 用 60 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-243",
+    "region": "北美洲",
+    "country": "(美)北馬里 安納群島",
+    "international": {
+      "usage": "可(30 天) 在當地使 用情形",
+      "status": "success",
+      "notes": "美屬北馬里安納不承 認我國際駕照，惟短期 使用方式 觀光可同時持有效之 我國內及國際駕照使 用，期限為 30 天。"
+    },
+    "general": {
+      "usage": "可(30 天) 在當地使用 情形",
+      "status": "success",
+      "notes": "美屬北馬里安納亦不承 認我國內駕照，惟短期觀 使用方式 光可同時持有效之我國 內及國際駕照使用，期限 為 30 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-244",
+    "region": "北美洲",
+    "country": "(美)北達科 他州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-245",
+    "region": "北美洲",
+    "country": "(美)田納西 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於田 納西州之國人，均可持有 效、未逾期超過 6 個月且 未經撤回、中止、吊銷或  暫停使用及取消資格致 無法使用之我國駕駛執 照，免筆試免路考申請換 發該州之小型車普通駕 駛執照（Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-246",
+    "region": "北美洲",
+    "country": "(美)伊利諾 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用至期滿為止"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-247",
+    "region": "北美洲",
+    "country": "(美)印地安 那州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 1 年 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "danger",
+      "notes": "年滿 18 歲合法居留於印 州，持我國合法小型車駕 駛執照、大貨車駕駛執 照、大客車駕駛執照、聯 結車駕駛執照，支付所有 必要費用並通過筆試及 視力檢查，得免路考及免 使用方式 相關駕駛教育，申請換發 印州行車駕駛執照。申請 者之原駕駛執照於審驗 後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-248",
+    "region": "北美洲",
+    "country": "(美)西維吉 尼亞州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "居住於該州之我國有效 駕照持有者，可以我國換 領該州駕照(class E)， 並免除筆試及路考。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-249",
+    "region": "北美洲",
+    "country": "(美)佛蒙特 州",
+    "international": {
+      "usage": "可(需搭  配我國內 駕照使用 在當地使 用情形 1 年)",
+      "status": "warning",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "可(需搭配 我國際駕照 使用 1 年) 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於佛 蒙特州之我國國人，持我 國合法小型車駕駛執 使用方式 照、大貨車駕駛執照、大 客車駕駛執照、聯結車駕 駛執照，提出過去 3 年駕 駛紀錄、支付所有必要費 用並通過視力檢查，得免 筆試、免路考且免駕駛教 育，申請換發美國佛蒙特 州 D 類駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-250",
+    "region": "北美洲",
+    "country": "(美)佛羅里 達州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可短期使用，執法人員 依持照人身分認定期 限，最長為 6 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "具有美國合法居留身分 及佛羅里達州居住證明 之國人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申領該 州之 E 類普通汽車駕駛執 照（Class E）。申請人需 年滿 18 歲且需領有該等 級駕照至少 3 個月，我國 駕照於查驗後退還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-251",
+    "region": "北美洲",
+    "country": "(美)亞利桑 那州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "持國際駕照者，使用期 限為 1 年。（建議隨身 使用方式 攜帶我國駕照）"
+    },
+    "general": {
+      "usage": "可（該州允 許持有外國 在當地使用 情形 駕照之駕駛 人在該州駕 車，惟因國  際駕照有英 文說明，州 政府建議攜 我國際駕照 與我國內駕  照合併使 用）",
+      "status": "warning",
+      "notes": "一、至洛杉磯辦事處辦理 駕照驗證。 使用方式 二、持驗證過的駕照英譯 本及正本，兩種以上 合法居留於美國的身 分證明文件至亞利桑 那州監理處申請 Cla s-s D.   三、年滿 18 歲合法居留 於亞利桑那州之國 人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申 請換發該州之非商用  汽車駕駛執照（Clas s D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-252",
+    "region": "北美洲",
+    "country": "(美)明尼蘇 達州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 60 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 21 歲且持有我國小 型車普通駕駛執照至少 3 年，並支付相關費用，通 過筆試及視力測驗，無須  路考，得換領明州非商用 等級 D 駕駛執照。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-253",
+    "region": "北美洲",
+    "country": "(美)肯塔基 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用"
+    },
+    "general": {
+      "usage": "可（台灣人 民可持有效 駕照於該州  境內至多 1 年）（台灣學 生於該州就  讀大學至多 可駕駛 4  年）104.4. 15",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於肯 塔基州國人，持我國有效 小型車普通駕駛執照之  申請者，支付所有必要費 用及通過視力測驗，得免 除路考及相關駕駛知識 測驗，申請換發該州之普  通汽車駕駛執照（Class  D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-254",
+    "region": "北美洲",
+    "country": "(美)阿拉巴 馬州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於阿 拉巴馬州之國人，均可持 有效之我國小型車普通 駕駛執照，免筆試免路考 申請換發該州之普通小 型車駕駛執照（Class D）"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-255",
+    "region": "北美洲",
+    "country": "(美)阿拉斯 加州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-256",
+    "region": "北美洲",
+    "country": "(美)阿肯色 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "90 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於阿 年滿 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-257",
+    "region": "北美洲",
+    "country": "州",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": "肯色州之國人，均可持有 效之我國小型車普通駕 駛執照，免筆試免路考申 領該州之 D 類汽車駕駛執 照（ClassD）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-258",
+    "region": "北美洲",
+    "country": "(美)俄亥俄 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用 1 年"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "我國與俄亥俄州已於 107 年 10 月 9 日簽署免試互 惠協議，自即日起年滿 1 8 歲合法居留於俄州，持 我國合法小型車、大貨  車、大客車、聯結車駕駛 執照者，檢附駕駛執照審 查證明書證明駕駛執照 有效性，支付所有必要費 用並通過視力檢查，得免 筆試、免路考申請換發該 州之非商用 Class D  駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-259",
+    "region": "北美洲",
+    "country": "(美)奧勒岡 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲取得愛州合法 居留身分之國人，均可持 有效之我國小型車普通 駕照並檢附 3 個月內之 「中華民國汽車駕駛執 使用方式 照審查證明書」，經筆試 免路考申領該州之 C 類汽 車駕照（Class C）。(104/  10/1 交路字第 10400320971 號 函)(須回收駕照)"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-260",
+    "region": "北美洲",
+    "country": "(美)南卡羅 來納州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，並於 6 個月內換考 當地駕照。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "自即日起年滿 18 歲合法 居留於南卡羅萊納州之 國人，均可持有效之我國  小型車普通駕駛執照，免 筆試免路考申請換發該 州之普通汽車駕駛執照 （Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-261",
+    "region": "北美洲",
+    "country": "(美)南達科 他州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-262",
+    "region": "北美洲",
+    "country": "(美)威斯康 辛州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，效期 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 21 歲合法居留於美 國威州之國人可持有效 之我國小型車普通駕駛 執照至少 3 年之申請者， 得免筆試免路考申請換 發該州之普通汽車駕駛 執照(class D)；申請者 須持 3 個月內申請之駕駛 使用方式 執照審查證書認定所持 駕照有效性。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-263",
+    "region": "北美洲",
+    "country": "(美)科羅拉 多州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "得搭配我國內駕照使 用至期滿為止。"
+    },
+    "general": {
+      "usage": "可(得搭配 我國際駕照 使用至期滿 為止)",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於美 國科羅拉多州之國人可 持有效之我國小型車普 通駕駛執照，免筆試免路 考申請換發該州之普通 汽車駕駛執照(class R)"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-264",
+    "region": "北美洲",
+    "country": "(美)夏威夷 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "駕駛需年滿 18 歲，並 搭配我國內駕照使用。"
+    },
+    "general": {
+      "usage": "可(駕駛需 年滿 18  歲，並搭配 我國國際駕 照使用)",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於夏 威夷州之國人，持我國有 效小型車普通駕駛執照  得免筆試免路考，通過視 力測驗後，申請換發該州 第 3 類駕駛執照（Class  3）"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-265",
+    "region": "北美洲",
+    "country": "(美)紐約州 否",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "該州不承認國際駕照 為一有效之駕照，僅能 作為證明駕駛人在其  本國取得有效駕照及 輔助警察人員瞭解我 國內駕照之文字內容。 使用方式"
+    },
+    "general": {
+      "usage": "可（該州承 認任何外國 核發之有效 駕照。）  (外國人士  到紐約州居 住 90 日  後，被視為 該州居民) 在當地使用 情形 需另行申請 該州駕照) 109.9.15 駐紐約 辦事處查詢)",
+      "status": "warning",
+      "notes": "建議與我國際駕照一併 使用，以證明在我國取得 有效駕照及輔助警察人 員瞭解我國內駕照文字 內容。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-266",
+    "region": "北美洲",
+    "country": "(美)紐澤西 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "需與我國內駕照搭配 使用，以利確認駕駛人 身分及克服語言隔閡。"
+    },
+    "general": {
+      "usage": "可(需與我 國際駕照搭 配使用，以  利確認駕駛 人身分及克 服語言隔  閡。)",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於美 國紐澤西州，持我國合法 小型車駕駛執照，支付所 有必要費用並通過視力 檢查，得免筆試且免路 考，申請換發紐澤西州 D 類駕駛執照。申請者原駕 駛執照於核發新駕駛執 照後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-267",
+    "region": "北美洲",
+    "country": "(美)馬里蘭 州",
+    "international": {
+      "usage": "承認 在當地使 用情形",
+      "status": "warning",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "具有美國合法居留身分 及馬里蘭州居住證明之 國人，均可持有效之我國 小型車普通駕照至馬州 使用方式 車輛管理處免試申領該 州之 C 類汽車駕照（Full License Class C）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-268",
+    "region": "北美洲",
+    "country": "(美)密西西 比州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "60 天"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於密 西西比州之國人，均可持 有效之我國小型車普通 駕駛執照，免筆試免路考 申請換發該州之普通汽 車駕駛執照（Class R）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-269",
+    "region": "北美洲",
+    "country": "(美)密西根 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "可使用至效期屆滿為 止"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "無法使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-270",
+    "region": "北美洲",
+    "country": "(美)密蘇里 州",
+    "international": {
+      "usage": "承認",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，效期由監理單位視 居留期限認定，最長為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，效期由監理單位視居 留期限認定，最長為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-271",
+    "region": "北美洲",
+    "country": "(美)康涅狄 克州",
+    "international": {
+      "usage": "承認（將 國際駕照 視為外國 所發駕照 之英譯  本）",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "持照人需搭配我國核發 之國際駕照或其他可接 受之駕照英文譯本一同 使用。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-272",
+    "region": "北美洲",
+    "country": "(美)麻薩諸 塞州",
+    "international": {
+      "usage": "否 在當地使 用情形 在當地使 用情形",
+      "status": "danger",
+      "notes": "該 州 不 承 認 國 際 駕 照，惟可做為我國駕照 譯文之輔助文件。 使用方式 使用方式"
+    },
+    "general": {
+      "usage": "可(1 年)  外交部網頁 在當地使用 情形 在當地使用 情形",
+      "status": "success",
+      "notes": "同意年滿 18 歲雙方居民 依下列駕駛執照種類免 試互換：  (一)麻州 Class D 駕照 使用方式 （小客車駕照）及我國普 通小型車駕照。  (二)麻州 Class M 駕照 （機車駕照）及我國普通 重型機車駕照。  (三)麻州 Class DM 駕照 （汽機車兩用駕照）及我 國小型車普通駕照與普 通重型機車駕照。  麻州要求申請免試互換 駕駛執照者須提交 60 天 內核發之駕駛紀錄(包含  無肇事審查證明書及違 規紀錄)，經協商未來將 透過駐處以逐案方式向 本局申請提供違規紀錄。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-273",
+    "region": "北美洲",
+    "country": "(美)喬治亞 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "年滿 18 歲合法居留於喬 治亞州持我國合法小型 車普通駕駛執照者，支付  所有必要費用並通過視 力檢查，得免筆試、免路 考，申請換發美國喬治亞 州 C 類駕駛執照。申請者 原駕駛執照於審驗後發 還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-274",
+    "region": "北美洲",
+    "country": "(美)堪薩斯 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於堪 薩斯州之國人，持我國合 法未逾期小型車普通駕 駛執照（Class B），通過 視力測驗，支付所有必要 費用，得免筆試及免路考 申請換發該州之非商用 C lass C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-275",
+    "region": "北美洲",
+    "country": "(美)猶他州 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "仍可搭配我國內駕照 可 使用方式 使用，期限為 6"
+    },
+    "general": {
+      "usage": "在當地使用 情形 個月。 承認我國有 效駕照，需 搭配我國際 駕照使用， 期限為 6 個 月。",
+      "status": "warning",
+      "notes": "使用方式 自即日起年滿 18 歲合法 居留於猶他州，持我國合 法有效小型車以上(包含 Class B、Class D、Clas s E)駕駛執照者，並檢附 駕駛執照審查證明書證 明其駕駛執照有效性，且 支付所有必要費用，並通 過視力檢查及該州交通 規則筆試者，即可免路考 申請換發該州之非商用 C lass D 駕駛執照。)  113.7.4 交運密字第 1137100478 號"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-276",
+    "region": "北美洲",
+    "country": "(美)華盛頓 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "滿 16 歲自入境起准免考 繼續使用我國內駕照 1 年 （為便利執法人員，請另 攜國際駕照）。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-277",
+    "region": "北美洲",
+    "country": "(美)華盛頓 特區",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效之我國內駕照使用。"
+    },
+    "general": {
+      "usage": "可  (短期觀光  需配合持有 效之我國際 駕照使用)。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-278",
+    "region": "北美洲",
+    "country": "(美)奧克拉 荷馬州",
+    "international": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "general": {
+      "usage": "可(自 103. 5.29 起，18 歲以上奧民  眾在我國居 住 1 年以  下，可用奧 州有效駕照 在台駕車。)",
+      "status": "success",
+      "notes": "經許可停留或居留 6 個月 以上，可持奧州 class D 駕照免考換台灣小型車 普通駕照"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-279",
+    "region": "北美洲",
+    "country": "(美)愛荷華 州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可使用 30 天 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿 18 歲合法居留於愛 荷華州國人，持我國有效 小型車普通駕駛執照（Cl 使用方式 ass B）、大貨車普通駕駛 執照（Class C）、大客車 普通駕駛執照（Class  D）、聯結車普通駕駛執照  （Class E）之申請者， 通過視力測驗及筆試 後，支付所有必要費用， 得免路考申請換發該州 之非商用 Class C 駕駛執 照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-280",
+    "region": "北美洲",
+    "country": "(美)愛達荷 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 90 天。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "年滿 18 歲取得愛州合法 居留身分之國人，均可持 有效之我國小型車普通 駕照並檢附 3 個月內之  「中華民國汽車駕駛執 照審查證明書」，經筆試 免路考申領該州之 D 類汽 車駕照（Class D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-281",
+    "region": "北美洲",
+    "country": "(美)新罕布 什爾州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國內駕照使 用，期限為入境 60 天 內。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為入境 60 天內。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-282",
+    "region": "北美洲",
+    "country": "(美)新墨西 哥州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "外國旅客進入該州 1 年內得使用 使用方式 （我國旅客可將我國 駕照與有英文說明之 國際駕照併用，或可避 免交通執法人員不識 中文引起誤會）"
+    },
+    "general": {
+      "usage": "可(我國旅客 可將我國駕照 在當地使用 情形 與有英文說明 之國際駕照併 用，以避免引 起誤會)",
+      "status": "success",
+      "notes": "107 年 6 月 26 日簽署駕照 相互承認協定，自即日起 使用方式 年滿 21 歲合法居留於新 墨西哥州之國人，持我國 合法未逾期小型車普通 駕駛執照（Class B）之 申請者，支付所有必要費 用，得免筆試及免路考申 請換發該州之非商用 Cla ss D 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-283",
+    "region": "北美洲",
+    "country": "(美)路易斯 安那州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "90 天（一但合法居留， 即須改持該州駕照）"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "107 年 8 月 14 日簽署免試 相互承認駕照協議，自即 日起年滿 18 歲合法居留 於路易斯安納州之國 人，持我國合法未逾期小 型車普通駕駛執照申請 者，支付所有必要費用， 得免筆試、免路考申請換 發該州之非商用 Class E 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-284",
+    "region": "北美洲",
+    "country": "(美)維吉尼 亞州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 6 個月 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "1.短期觀光需配合持有 效之我國際駕照使用，期 限為 6 個月。 使用方式 2.年滿 18 歲合法居留於 維吉尼亞州之國人，持我 國 1 年以上有效小型車普 通駕駛執照得免路考，通 過該州筆試及視力測驗 後，申請換發該州之普通 汽車駕駛執照（Class  D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-285",
+    "region": "北美洲",
+    "country": "(美)蒙大拿 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照於效期內使用"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "109 年 10 月 10 日起同意 年滿 18 歲持美國蒙大拿 州 D 類駕駛執照的「蒙大  拿州州民」，取得經許可 停(居)留 6 個月以上之證 明(件)者，得於入境之翌 日起依平等互惠原則，通  過筆試及體格檢查、支付 所有必要費用，得免路考 申請換發我國小型車普  通駕駛執照，申請者原駕 駛執照於審驗後發還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-286",
+    "region": "北美洲",
+    "country": "(美)賓夕法 尼亞州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照使用，期限為 1 年。 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一.得搭配有效之我國內 駕照使用，期限為 1 年。 二.換照程序:  年滿 18 歲合法居留於賓 夕法尼亞州之國人，均可 使用方式 持有效且未逾期之普通 小型車、大貨車、大客 車、聯結車駕駛執照（Cl ass B、C、D、E）及國際 駕照，支付所有必要費用 及通過視力測驗後，免筆  試免路考換發該州非商 用小型車駕駛執照（Clas s C)"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-287",
+    "region": "北美洲",
+    "country": "(美)德州",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "18 至 75 歲之我國觀光 客，入境德州 1 年有 效，惟須與本國駕照一 起使用。（合法居留者 須於 30 日內改持德州 駕照） 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "年滿18歲合法居留於德 州之國人，均可持有效之 我國小型車普通駕駛執  照，免筆試免路考申領該 州之C類汽車駕駛執照（C lass C）。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-288",
+    "region": "北美洲",
+    "country": "(美)德拉瓦 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "短期觀光需配合持有 效 之 我 國 內 駕 照 使 用，期限為 60 天。"
+    },
+    "general": {
+      "usage": "可(短期觀 光需配合持 有效之我國 際駕照使 用，期限為 60 天。)",
+      "status": "warning",
+      "notes": "我國與美國德拉瓦州已 簽署駕照相互承認互惠 協定，自即日起年滿 18 歲合法居留於德拉瓦州 之國人，均可持有效之我  國小型車普通駕駛執 照，免筆試免路考申領該 州之D類汽車駕駛執照（C lass D）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-289",
+    "region": "北美洲",
+    "country": "(美)緬因州 可",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配我國際駕照使 用，期限為 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-290",
+    "region": "北美洲",
+    "country": "(美)懷俄明 州",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配有效之我國內 駕照於效期內使用"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "106 年 10 月 11 日我國與 美國懷俄明州已簽署駕 照互惠協定，自即日起年 滿 18 歲合法居留於懷俄 明州國人，持我國合法未 逾期小型車普通駕駛執 照（Class B）之申請者， 通過視力測驗，支付所有 必要費用，得免筆試及路 考申請換發該州之非商 用 Class C 駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-291",
+    "region": "北美洲",
+    "country": "(美)羅德島 可",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "需搭配我國內駕照使 可 使用方式"
+    },
+    "general": {
+      "usage": "(需搭配 可 在當地使用 情形",
+      "status": "warning",
+      "notes": "於 107 年 9 月 6 日簽署免 年滿 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-292",
+    "region": "北美洲",
+    "country": "州",
+    "international": {
+      "usage": "",
+      "status": "warning",
+      "notes": "用，期限為 1 年。"
+    },
+    "general": {
+      "usage": "我國際駕照 使用，期限 為 1 年)",
+      "status": "warning",
+      "notes": "試相互承認駕照協議，自 即日起年滿 18 歲合法居 留於羅德島州之我國國  人，持我國合法小型車普 通駕駛執照（Class B） 之申請者，得免筆試及免  路考申請換發羅州小客 車駕駛執照( C l a s s 1 0)；我國普通重型機車駕 駛執照(Class A2)之申 請者，得免筆試及免路考 申請換發羅州重型機車 駕駛執照(M endorsemen t)。  申請者須持駕駛執照審 查證明書認定所持駕照 有效性，並提供過去 3 年 違規紀錄。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-293",
+    "region": "北美洲",
+    "country": "(美)關島",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "入境關島後可持國際 駕照在關島駕車 30 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "入境關島後可持用該駕 照行駛 30 天， 30 天之效 期屆滿後，得向關島財政 局車輛管理部門申請延 長效期至入境起算 1 年。 (外交部 105.8.2 10521536440) 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-294",
+    "region": "北美洲",
+    "country": "(美)北馬利 安納群島邦",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "入境北馬後可持用該 駕照行駛 30 天"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "入境北馬後可持用該駕 照行駛 30 天"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-295",
+    "region": "北美洲",
+    "country": "(美)波多黎 各自治邦",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可短期使用，執法人員 依持照人身分認定期 限，最長為 6 個月。"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "我國與波邦已於 104 年 1 0 月 19 日簽訂「駕照互惠 協定」，凡持有波邦合法  居留身分之國人均可持 有效之我國小型車普通 駕駛執照及國際駕照，免 筆試免路考申領該州之 O  perator 類普通汽車駕駛 執照。申請人須年滿 18 歲，我國駕照於查驗後退 還。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-296",
+    "region": "北美洲",
+    "country": "(美)維京群 島",
+    "international": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "在當地使用 情形",
+      "status": "warning",
+      "notes": "我國與美屬維京群島已 於 108 年 1 月 10 日簽署 免試相互承認駕駛執照 協議，自即日起年滿 21 歲合法居留於維島，持我  國合法小型車駕駛執照 至少 3 年者及 3 個月內核 使用方式 發之無肇事證明，支付所 有必要費用並通過筆試 及視力檢查，得免路考申  請換發維島非商用駕駛 執照。申請者繳交之駕駛 執照，將由維島監理機關  收取後寄回我國駐邁阿 密辦事處。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-297",
+    "region": "北美洲",
+    "country": "加拿大 \n安大略省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "有效期間內"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、104 年 12 月 1 日起持 我國 class B、C、D、E(小 型車、大貨車、大客車、 聯結車)駕駛執照 24 個月 以上者，可免試申請換領 安大略省小型車駕駛執 照(Class G)。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-298",
+    "region": "北美洲",
+    "country": "加拿大 \n魁北克省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "有效期限內 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、國人可依規定免試申 使用方式 換魁省駕照。   凡持有臺灣核發正式有 效之駕駛執照，並已取得 加拿大魁北克省之居留  證者，得向該省申請免試 換發同等車類(指 Class  5 類)之普通駕駛執照。符  合上述條件者，得向加該 省汽車保險局提出申請"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-299",
+    "region": "北美洲",
+    "country": "加拿大 \n緬尼托巴省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 180 天。 二、國人可依規定免試申 換緬省駕照。  國人持核發有效正式之B類 小型車、C類大貨車、D類大 客車或E類聯結車駕駛執 照，並已取得加國緬尼托巴 省居留證者，得向該省申請 免試換發「第5級最高階段 （Class 5 Stage Full）」 之普通駕駛執照 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-300",
+    "region": "北美洲",
+    "country": "加拿大 \n紐布朗斯維 克省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 3 個月 使用方式"
+    },
+    "general": {
+      "usage": "否 在當地使用 情形",
+      "status": "warning",
+      "notes": "一、建議搭配國際駕照使 用，可使用 90 天。  二、國人可依規定免試申換 紐省駕照。 國人於紐 省換照規定：  (1)凡持有中華民國交通 部核發有效正式之B類小 型車、C類大貨車、D類大 客車或E類聯結車駕駛執 照，並已取得加國紐布朗 斯維克省居留證者，得向 該省申請免試換發第5級 客車（Class 5，passenger vehicle）普通駕駛執照。 (2)駕駛人應年滿18歲，且 需領有該等級駕駛執照至 少2年。  (3)需檢附 3 個月內之「中 華民國汽車駕駛執照審查 證明書」，並需收繳原駕駛 執照於 90 日內送回臺灣 查驗。  (4)外國駕照需回收 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-301",
+    "region": "北美洲",
+    "country": "加拿大 \n諾瓦斯柯西 亞省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可使用 90 天"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 90 天。)",
+      "status": "warning",
+      "notes": "換照規定：  我國與加拿大諾省於 106 年 4月25日起簽署相互承認備 忘錄，年滿 18 歲合法居留 於諾瓦科西省之國人，持我  國有效 B 類小型車、C 類大 客車、D 類大客車或 E 類聯 結車之駕駛執照滿 2 年以  上，通過視力測驗免試換發 該州「5 級」普通駕駛執照， 持照未滿2年則換發「5N級」駕駛執照。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-302",
+    "region": "北美洲",
+    "country": "加拿大 \n愛德華王子 島省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 120 天 使用方式"
+    },
+    "general": {
+      "usage": "可 在當地使用 情形",
+      "status": "warning",
+      "notes": "一、建議搭配國際駕照使 用，可使用 120 天。 二、國人可依規定免試申 換愛省駕照。國人於 愛省換照規定：  1.凡持有中華民國交通 部核發有效正式之 B  類小型車、C 類大貨  車、D 類大客車或 E 類聯 結車駕駛執照，並已取 得加國愛德華王子島省 居留證者，得向該省申  請免試換發第 5 級客車 CLASS 5,passenger   vehicle）普通駕駛執 使用方式 照。  ２ . 駕 駛 人 應 年 滿 18 歲，且需領有該等級駕 駛執照至少 2 年 。  3、需檢附 3 個月內之 「中華民國汽車駕駛執 照審查證明書」，並需 收繳原駕駛執照於 90 日 內送回臺灣查驗。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-303",
+    "region": "北美洲",
+    "country": "加拿大 \n西北地方",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配國際駕照使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-304",
+    "region": "北美洲",
+    "country": "加拿大 \n努那福 \n特區",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在當地使用 1 年"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "須與國際駕照併用，可使 用 1 年。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-305",
+    "region": "北美洲",
+    "country": "加拿大 \n紐芬蘭及拉 布拉多省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在當地使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 90 天) 在當地使用 情形",
+      "status": "warning",
+      "notes": "同意年滿 18 歲且持紐省 合法之非商用等級 5 或等 級 5 第 2 等駕駛執照，取 得經許可停(居)留 6 個月 以上之證明（件）者，得 於入境之翌日起經通過 體檢，支付所有必要費 用，得免筆試及免路考換  發我國小型車普通駕駛 執照。   另持紐省合法之非商用 等級 6 或等級 6 第 2 等駕 駛執照，取得經許可停 (居)留 6 個月以上之證明 使用方式 （件）者，得於入境之翌 日起經通過體檢，支付所 有必要費用，年滿 18 歲 得免筆試及免路考換發  我國小型輕型機車駕駛 執照、普通輕型機車駕駛 執照、普通重型機車駕駛 執照；年滿 20 歲得免筆  試及免路考換發我國小 型輕型機車駕駛執照、普 通輕型機車駕駛執照、普 通重型機車駕駛執照、大 型重型機車駕駛執照。原 領有之加國駕駛執照，監 理機關自行銷毀。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-306",
+    "region": "北美洲",
+    "country": "加拿大 \n沙士卡其灣 省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "可在該省使用 90 天 使用方式"
+    },
+    "general": {
+      "usage": "可(需搭配 國際駕照使 用，可使用 90 天) 在當地使用 情形",
+      "status": "warning",
+      "notes": "自 105 年 3 月 1 日起持我 國有效 B 類小型車、C 類 大貨車、D 類大客車或 E 類聯結車駕駛執照 18 個 月以上且居住於沙省 者，可免試換發沙省 Cla  ss 5 駕駛執照(普通小型 車駕駛執照)。 使用方式"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-307",
+    "region": "北美洲",
+    "country": "加拿大 \n育空地方",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在該省使用 120 天"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "需搭配國際駕照使用，可 使用 90 天。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-308",
+    "region": "北美洲",
+    "country": "加拿大 \n亞伯達省",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "可在當地使用 1 年"
+    },
+    "general": {
+      "usage": "可",
+      "status": "success",
+      "notes": "一、建議搭配國際駕照使 用，可使用 1 年。  二、國人可依規定免試申 換亞省駕照。  104 年 3 月 3 日起開始實 施，合法居留於亞伯達省之 國人，均可持有效之我國小 型車駕駛執照(Class B)、  大 貨 車 駕 駛 執 照 (Class  C)、大客車駕駛執照(Class  D) 或 聯 結 車 駕 駛 執 照 (Class E)，免試申請換發  該省之普通汽車駕駛執照 （Class 5）。亞伯達省將收 繳我國駕駛執照"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-309",
+    "region": "北美洲",
+    "country": "加拿大 \n卑詩省",
+    "international": {
+      "usage": "可 在當地使 用情形",
+      "status": "success",
+      "notes": "使用方式"
+    },
+    "general": {
+      "usage": "可(建議搭 配國際駕照 使用，可使 用 180 天。) 在當地使用 情形",
+      "status": "success",
+      "notes": "國人可依規定免試申換卑 詩省駕照。國人可正式且 未逾期超過 3 年之普通小 客車駕駛執照滿 24 個月 者，可免試換領該省 Cla ss 5 駕駛執照(非商用汽 車駕駛執照)；持我國正 式且未逾期超過 3 年之普 通小客車駕駛執照未滿 2 使用方式 4 個月者，可免試換領該 省 Class 7 駕駛執照(非 商用汽車新手駕駛執 照)，俟申請人完成該省 漸進式考照制度，發給正  式小客車駕駛執照。原領 有之駕駛執照由新駕駛 執照之發證單位將原領 有之駕駛執照收繳後銷 毀。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-310",
+    "region": "亞洲",
+    "country": "土耳其 \n不丹",
+    "international": {
+      "usage": "可(汽車)  (入境 6 個  月,併同我 國護照使 用)  (112.5.11) 可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-311",
+    "region": "亞洲",
+    "country": "中國大陸",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "持中國大陸駕照須 實習期滿，得以筆 試及格換領台灣駕 照，但大型客車、牽 引車、中型客車、大  型貨車仍須實地測 試。"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-312",
+    "region": "亞洲",
+    "country": "香港",
+    "international": {
+      "usage": "可  （最長連續 使用 1 年） 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  (香港運輸 署查詢駕 在當地使 用情形 照狀態網  頁)  https://ww w.gov.hk/t c/residents /transport/ drivinglice nse/ocdls.  htm",
+      "status": "warning",
+      "notes": "（欲申領香港駕  照，申請人須填妥 表格＃TD63A- 備註 「免試換領香港駕 駛執照申請書」乙 份，遞交時須一併 附上申請人護照及 原有效駕照之正、 副本、最近 3 個月 香港當地地址證明  （97.9.16 起），到 香港運輸署牌照事 務處辦理查詢電 話：（852）2804-2 636，網址 www.t d.gov.hk （香港運 輸署查詢電話：（8 52）2804-2600）"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-313",
+    "region": "亞洲",
+    "country": "澳門",
+    "international": {
+      "usage": "可  （持我國國 際駕照在澳 門駕駛，首  1 4 日免登 記得逕持我 國國際駕照 配合我國護 照及旅客抵  澳申請表可 在澳門駕 駛。超過 14 日在使用前 在當地使  用情形 需持向澳門 治安警察局 交通廳作有  關免費登記 手續後，持 該廳核發之 單張憑證， 於效期內隨 同國際駕照 使用。如未 作登記手續 而被澳門警 方查獲，將 被開具澳門 幣三百元之 未登記之罰 款。）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可  （持我國  內或國際 駕照搭配 我國護照 及有效入  境申請表， 擬於澳門 停留超過 14 天者， 備齊應備 文件親臨 澳門交通 在當地使 用情形 警司處登 記申請。未 超過 14 天  毋須登 記。）",
+      "status": "success",
+      "notes": "我國駕照在當地使 用之條件為請見本 （104）年 3 月 3 日 MAC0001 電之附 件「我國內/國際駕 照在澳門地區直接 使用須知表」。 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-314",
+    "region": "亞洲",
+    "country": "巴布亞紐幾 內亞",
+    "international": {
+      "usage": "可，惟倘住 超過 6 個月 需換領巴紐 駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可，惟倘住 超過 6 個 月需換領 巴紐駕照。",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-315",
+    "region": "亞洲",
+    "country": "巴林",
+    "international": {
+      "usage": "可(1 個月) 112.5.12 外 交部電",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.379Z"
+  },
+  {
+    "id": "country-316",
+    "region": "亞洲",
+    "country": "巴基斯坦",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-317",
+    "region": "亞洲",
+    "country": "日本",
+    "international": {
+      "usage": "否 在當地使  用情形",
+      "status": "danger",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "可，我國駕 照 及日文 在當地使 用情形 譯 本 可 於 當地直接 使用。  交通部 104.12. 4 交路字第 1040 038960 號函",
+      "status": "success",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-318",
+    "region": "亞洲",
+    "country": "以色列",
+    "international": {
+      "usage": "可  1 年（之後 須取得以國 駕照）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "可  1 年（之後 須取得以 國駕照）",
+      "status": "warning",
+      "notes": "以色列駕駛執照之 以色列國民，年齡 符合我國法律規定  者，取得經許可停 (居)留 6 個月以上 之證明（件）者，  得於入境之翌日起 依平等互惠原則， 提供駕駛執照譯本 及驗證、通過體格 檢查，並支付所有  必要費用，得免筆 試、免路考換發相 對應之駕駛執照， 申請者原駕駛執照  於審驗後發還。 (109.10.13 交路字第  1090027854 號)"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-319",
+    "region": "亞洲",
+    "country": "卡達",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-320",
+    "region": "亞洲",
+    "country": "尼泊爾",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 在當地使  用情形 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-321",
+    "region": "亞洲",
+    "country": "伊朗",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "持有短期停留之 商務或觀光簽證， 可使用效期內之  我國國際駕照。倘 獲長期之居留簽 證，依規定須使用 當地駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-322",
+    "region": "亞洲",
+    "country": "印尼",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "效期內"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-323",
+    "region": "亞洲",
+    "country": "印度",
+    "international": {
+      "usage": "可 ( 國際駕 照有效期限 內，最長可 使用一年)",
+      "status": "warning",
+      "notes": "國際駕照持用人 需併持我國國內 駕照使用。"
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-324",
+    "region": "亞洲",
+    "country": "沙烏地阿拉 伯",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": "不換發當地駕照， 僅可使用 1 個月。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-325",
+    "region": "亞洲",
+    "country": "汶萊",
+    "international": {
+      "usage": "可  3 個 月 在當地使  用情形",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "長期居留  者，不可 直 接 使  用 我 國 駕 照 在當地使 用情形",
+      "status": "warning",
+      "notes": "須親至汶萊陸路交 通局面試， 通過 後再進行筆試及路 考(僅有 手排  車)。 須準備下列 文件： 1.有效駕 照正本及影本 2 份，以 及經我駐 處驗證之英譯本。 2.我國護照正本及 影本。 備註 3.汶萊工作准證。 4.汶萊身分證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-326",
+    "region": "亞洲",
+    "country": "孟加拉",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-327",
+    "region": "亞洲",
+    "country": "阿拉伯聯合 大公國",
+    "international": {
+      "usage": "可,限小型 車,僅限持 觀光簽證入  境者在停留 期限內租車 使用。  (外研綜字  1124700576 函)",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "不准使用"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-328",
+    "region": "亞洲",
+    "country": "阿曼",
+    "international": {
+      "usage": "可(3 個月) 須帶國內駕 照備查,限 小型車  1120628(外 研綜字 112 4700576  函)",
+      "status": "success",
+      "notes": "3 個月。停留阿曼 期間可使用我國 國際駕照租用懸 掛紅色車牌之出 租車輛。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "否"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-329",
+    "region": "亞洲",
+    "country": "俄羅斯聯邦",
+    "international": {
+      "usage": "持我國國際 駕照，自抵 達俄羅斯起 在當地使  用情形 半年內可使 用，倘超過 上述期限則 必須更換俄 羅斯駕照。",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "danger",
+      "notes": "否 備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-330",
+    "region": "亞洲",
+    "country": "柬埔寨",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-331",
+    "region": "亞洲",
+    "country": "科威特",
+    "international": {
+      "usage": "可  (111.11.16 外  亞非阿字  1110457389 )",
+      "status": "success",
+      "notes": "我國公民可於訪 問停留科國期間 (Visitor)持有效國 際駕照駕車。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-332",
+    "region": "亞洲",
+    "country": "約旦",
+    "international": {
+      "usage": "可  （限在我國 際駕照有效 期間內租用 車）",
+      "status": "success",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-333",
+    "region": "亞洲",
+    "country": "泰國",
+    "international": {
+      "usage": "可(110.7.6  交路字第  1100017225 號) 在當地使  用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "備註"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-334",
+    "region": "亞洲",
+    "country": "馬來西亞",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "僅適用在馬來西 亞停留不超過 12 個月的外籍人  士，長期居留簽 證者必須依照馬 國民眾申請駕照 程序申辦駕照  （包括筆試、路  考等）。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": "馬來西亞政府宣布 自 2025 年 5 月 19 日起不接受所有外 國駕照轉換為馬來 西亞駕照申請，外 籍人士必須依照馬 國民眾申請駕照程  序申辦駕照（包括 筆試、路考等）。"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-335",
+    "region": "亞洲",
+    "country": "斯里蘭卡",
+    "international": {
+      "usage": "可在我國國 際駕照有效 期間內持憑 駕車。（得經 簽證）",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "",
+      "status": "warning",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-336",
+    "region": "亞洲",
+    "country": "菲律賓",
+    "international": {
+      "usage": "可（在國際 駕照有效期 限內,不超 在當地使  用情形 過 1 年）",
+      "status": "success",
+      "notes": "備註"
+    },
+    "general": {
+      "usage": "否 在當地使 用情形",
+      "status": "warning",
+      "notes": "我國有效駕照須翻 譯成英文並經我駐 菲 律 賓 代 表 處 驗 備註 證。交通部 104.12.4 交路 字第 1040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-337",
+    "region": "亞洲",
+    "country": "越南",
+    "international": {
+      "usage": "不可。(我國 非 1968 年 維也納公約 締約國)(10 9.5.8 駐越 南台北經濟 文化辦事 處)  承認我國國 際及國內駕 照，但無法  持國際駕照 直接使用。",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "需將我國駕照翻譯 成越文（國際駕照 如有越文免翻譯） 並經公證或駐處驗 證。"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-338",
+    "region": "亞洲",
+    "country": "新加坡",
+    "international": {
+      "usage": "可",
+      "status": "success",
+      "notes": "使用時須同時攜 帶國際駕照及國 內駕照。"
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-339",
+    "region": "亞洲",
+    "country": "蒙古",
+    "international": {
+      "usage": "不可",
+      "status": "danger",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "danger",
+      "notes": ""
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  },
+  {
+    "id": "country-340",
+    "region": "亞洲",
+    "country": "寮國",
+    "international": {
+      "usage": "可",
+      "status": "warning",
+      "notes": ""
+    },
+    "general": {
+      "usage": "否",
+      "status": "warning",
+      "notes": "交通部 104.12.4 交路字第 1 040038960 號函"
+    },
+    "updated_at": "2026-01-30T23:47:12.380Z"
+  }
+]
