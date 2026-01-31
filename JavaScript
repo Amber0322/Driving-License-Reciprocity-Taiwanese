@@ -1,0 +1,30 @@
+// 更新 render 函式
+const labels = {
+  success: "Allowed 可以使用",
+  warning: "Conditional 依條件使用",
+  danger: "Prohibited 不可使用"
+};
+
+const cardHTML = `
+  <div class="country-card">
+    <h2>${item.country}</h2>
+    
+    <div class="card-section-intl">
+      <span class="status-tag tag-${item.international.status}">
+        ${labels[item.international.status]}
+      </span>
+      <p><strong>當地使用：</strong>${item.international.usage}</p>
+      <p><strong>免考換照：</strong>${item.international.exemption || "無"}</p>
+      <p><strong>備註：</strong>${item.international.notes}</p>
+    </div>
+
+    <div class="card-section-tw">
+      <span class="status-tag tag-${item.general.status}">
+        ${labels[item.general.status]}
+      </span>
+      <p><strong>當地使用：</strong>${item.general.usage}</p>
+      <p><strong>免考換照：</strong>${item.general.exemption || "無"}</p>
+      <p><strong>備註：</strong>${item.general.notes}</p>
+    </div>
+  </div>
+`;
