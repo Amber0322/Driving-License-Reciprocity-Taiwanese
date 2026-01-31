@@ -3,118 +3,160 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>全球駕照互惠查詢索引 - UX Prototype</title>
+    <title>全球駕照互惠查詢 v4.0</title>
     <style>
-        :root { --primary: #2c3e50; --success: #27ae60; --warning: #f39c12; --danger: #e74c3c; }
-        body { font-family: -apple-system, "Helvetica Neue", sans-serif; line-height: 1.6; margin: 0; background: #f4f7f6; color: #333; }
-        header { background: var(--primary); color: white; padding: 2rem; text-align: center; }
-        .filter-bar { background: #fff; padding: 1rem; text-align: center; border-bottom: 1px solid #ddd; }
-        
-        .grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 2rem; max-width: 1200px; margin: 0 auto; }
-        
-        /* 第一層：洲際卡片 */
-        .continent-card { background: var(--primary); color: white; height: 160px; display: flex; flex-direction: column; align-items: center; justify-content: center; border-radius: 12px; cursor: pointer; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.2); }
-        .continent-card:hover { transform: translateY(-5px); background: #34495e; }
-        
-        /* 第二層：國家卡片 */
-        .country-card { background: white; border-radius: 10px; padding: 20px; cursor: pointer; border-left: 8px solid #ccc; transition: 0.3s; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
-        .country-card:hover { box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
-        .country-card.status-success { border-left-color: var(--success); }
-        .country-card.status-warning { border-left-color: var(--warning); }
-        .country-card.status-danger { border-left-color: var(--danger); }
-        
-        .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; margin-bottom: 8px; text-transform: uppercase; }
-        .badge-success { background: #d4edda; color: #155724; }
-        .badge-warning { background: #fff3cd; color: #856404; }
-        .badge-danger { background: #f8d7da; color: #721c24; }
+        :root {
+            --status-green: #3cb371; --status-orange: #ffa500; --status-red: #f08080;
+            --intl-bg: #d1e3e9; --tw-bg: #e9e2d1; --sidebar-w: 280px;
+        }
 
-        .details { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; font-size: 0.9rem; color: #666; }
-        .active .details { max-height: 500px; margin-top: 15px; border-top: 1px dashed #eee; padding-top: 10px; }
+        body { font-family: "PingFang TC", sans-serif; margin: 0; background: #f4f6f8; color: #333; display: flex; flex-direction: column; }
         
-        #back-btn { margin: 20px; padding: 10px 20px; cursor: pointer; background: #eee; border: none; border-radius: 5px; font-weight: bold; }
+        /* 標題優化 */
+        header { background: #2c3e50; color: white; padding: 2rem; text-align: center; }
+        header h1 { margin: 0; font-size: 2.5rem; }
+        header h3 { margin: 10px 0 0; font-weight: 300; opacity: 0.9; }
+
+        .fav-cart { position: absolute; top: 20px; right: 20px; cursor: pointer; background: #34495e; padding: 8px 15px; border-radius: 20px; color: white; z-index: 1001; }
+
+        .main-layout { display: flex; flex: 1; }
+        aside { width: var(--sidebar-w); background: #fff; padding: 20px; border-right: 1px solid #ddd; height: calc(100vh - 150px); position: sticky; top: 0; overflow-y: auto; }
+        
+        .content { flex: 1; padding: 20px; }
+        .masonry { column-count: 3; column-gap: 20px; }
+
+        /* 卡片設計 */
+        .country-group { break-inside: avoid; margin-bottom: 25px; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); background: white; border: 1px solid #eee; }
+        .group-header { background: white; padding: 15px; text-align: center; font-size: 1.4rem; border-bottom: 1px solid #f0f0f0; }
+        
+        .sub-card { padding: 15px; border-bottom: 1px dashed #ddd; }
+        .sub-card:last-child { border-bottom: none; }
+        .type-intl { background: var(--intl-bg); }
+        .type-gen { background: var(--tw-bg); }
+
+        .badge { display: inline-block; padding: 3px 12px; border-radius: 20px; color: white; font-size: 0.8rem; font-weight: bold; margin: 10px 0; }
+        .bg-success { background: var(--status-green); }
+        .bg-warning { background: var(--status-orange); }
+        .bg-danger { background: var(--status-red); }
+
+        /* RWD */
+        @media (max-width: 1100px) { .masonry { column-count: 2; } }
+        @media (max-width: 768px) { 
+            .main-layout { flex-direction: column; } 
+            aside { width: 100%; height: auto; position: relative; } 
+            .masonry { column-count: 1; } 
+        }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>全球駕照互惠查詢系統</h1>
-    <p>針對台灣駕照持有者之自駕與換照指引</p>
+    <h1>全球駕照互惠查詢</h1>
+    <h3>持有台灣監理站核發的一般駕照、國際駕照</h3>
 </header>
 
-<div class="filter-bar">
-    <label>目前身份：<strong>台灣駕照持有者 (永久居民)</strong></label>
+<div class="fav-cart" onclick="toggleFavPopup()">⭐ 收藏清單 <span id="fav-count">0</span></div>
+
+<div class="main-layout">
+    <aside>
+        <div class="filter-group">
+            <h4>1. 選擇區域</h4>
+            <div id="region-filters"></div>
+        </div>
+        <div class="filter-group">
+            <h4>2. 駕照類型</h4>
+            <label><input type="checkbox" value="intl" class="type-chk" checked> 國際駕照</label><br>
+            <label><input type="checkbox" value="gen" class="type-chk" checked> 台灣一般駕照</label>
+        </div>
+        <div class="filter-group">
+            <h4>3. 互惠狀態</h4>
+            <label><input type="checkbox" value="success" class="status-chk"> Allowed 可以使用</label><br>
+            <label><input type="checkbox" value="warning" class="status-chk"> Conditional 依條件使用</label><br>
+            <label><input type="checkbox" value="danger" class="status-chk"> Prohibited 不可使用</label>
+        </div>
+    </aside>
+
+    <main class="content">
+        <div class="masonry" id="card-grid"></div>
+    </main>
 </div>
 
-<main id="app">
-    <section id="continents-view">
-        <div class="grid-container" id="continent-grid"></div>
-    </section>
-
-    <section id="countries-view" style="display:none;">
-        <button id="back-btn" onclick="showContinents()">← 返回區域選擇</button>
-        <div class="grid-container" id="country-grid"></div>
-    </section>
-</main>
-
 <script>
-    const CONFIG = { dataUrl: 'data/data.json' };
-    let allData = [];
-    const continents = ["亞洲", "中南美洲", "非洲", "歐洲", "澳洲及大洋洲", "北美洲"];
+    const labels = { success: "Allowed 可以使用", warning: "Conditional 依條件使用", danger: "Prohibited 不可使用" };
+    let rawData = [];
 
-    async function fetchData() {
-        try {
-            const res = await fetch(CONFIG.dataUrl);
-            allData = await res.json();
-            renderContinents();
-        } catch (e) {
-            console.error("資料載入失敗:", e);
-            document.body.innerHTML += "<p style='text-align:center; color:red;'>無法載入 data/data.json，請確認檔案路徑是否正確。</p>";
-        }
+    async function init() {
+        const res = await fetch(`data/data.json?t=${Date.now()}`);
+        rawData = await res.json();
+        setupRegionFilters();
+        render();
     }
 
-    function renderContinents() {
-        const grid = document.getElementById('continent-grid');
-        continents.forEach(name => {
-            const card = document.createElement('div');
-            card.className = 'continent-card';
-            card.innerHTML = `<h3>${name}</h3><small>點擊查看國家</small>`;
-            card.onclick = () => showCountries(name);
-            grid.appendChild(card);
+    function setupRegionFilters() {
+        const regions = [...new Set(rawData.map(d => d.region))];
+        const container = document.getElementById('region-filters');
+        regions.forEach(r => {
+            const el = document.createElement('div');
+            el.innerHTML = `<label><input type="checkbox" value="${r}" class="region-chk"> ${r}</label>`;
+            el.onchange = render;
+            container.appendChild(el);
         });
+        document.querySelectorAll('.type-chk, .status-chk').forEach(c => c.onchange = render);
     }
 
-    function showCountries(region) {
-        document.getElementById('continents-view').style.display = 'none';
-        document.getElementById('countries-view').style.display = 'block';
-        
-        const grid = document.getElementById('country-grid');
+    function render() {
+        const activeRegions = Array.from(document.querySelectorAll('.region-chk:checked')).map(c => c.value);
+        const activeTypes = Array.from(document.querySelectorAll('.type-chk:checked')).map(c => c.value);
+        const activeStatus = Array.from(document.querySelectorAll('.status-chk:checked')).map(c => c.value);
+
+        const grid = document.getElementById('card-grid');
         grid.innerHTML = '';
-        
-        const filtered = allData.filter(d => d.region === region);
+
+        // 核心邏輯：先根據區域與狀態過濾原始資料
+        const filtered = rawData.filter(d => {
+            const regMatch = activeRegions.length === 0 || activeRegions.includes(d.region);
+            // 只要其中一種駕照符合勾選的狀態即可
+            const statMatch = activeStatus.length === 0 || activeStatus.includes(d.international.status) || activeStatus.includes(d.general.status);
+            return regMatch && statMatch;
+        });
+
         filtered.forEach(item => {
-            const card = document.createElement('div');
-            // 以「國際駕照」燈號作為卡片主色調
-            card.className = `country-card status-${item.international.status}`;
-            card.innerHTML = `
-                <span class="badge badge-${item.international.status}">國際駕照：${item.international.status}</span>
-                <h3 style="margin:5px 0;">${item.country}</h3>
-                <small>一般駕照換照：${item.general.status}</small>
-                <div class="details">
-                    <p><strong>🚗 當地使用：</strong>${item.international.usage}</p>
-                    <p><strong>📝 備註：</strong>${item.international.notes}</p>
-                </div>
-            `;
-            card.onclick = () => card.classList.toggle('active');
-            grid.appendChild(card);
+            // 判斷該國家是否要顯示對應內容
+            const showIntl = activeTypes.includes('intl');
+            const showGen = activeTypes.includes('gen');
+
+            if (!showIntl && !showGen) return;
+
+            // 建立容器卡片
+            const group = document.createElement('div');
+            group.className = 'country-group';
+            
+            let html = `<div class="group-header">📍 ${item.country}</div>`;
+
+            if (showIntl) {
+                html += renderSubCard(item.international, 'International 國際駕照', 'intl');
+            }
+            if (showGen) {
+                html += renderSubCard(item.general, 'General 台灣一般駕照', 'gen');
+            }
+
+            group.innerHTML = html;
+            grid.appendChild(group);
         });
     }
 
-    function showContinents() {
-        document.getElementById('continents-view').style.display = 'block';
-        document.getElementById('countries-view').style.display = 'none';
+    function renderSubCard(info, title, type) {
+        return `
+            <div class="sub-card type-${type}">
+                <div style="font-size:0.7rem; font-weight:bold; opacity:0.6;">${title}</div>
+                <div class="badge bg-${info.status}">${labels[info.status]}</div>
+                <div style="font-size:0.9rem;"><strong>當地使用：</strong>${info.usage || '無'}</div>
+                <div style="font-size:0.9rem; margin-top:5px;"><strong>備註：</strong>${info.notes || '無'}</div>
+            </div>
+        `;
     }
 
-    fetchData();
+    init();
 </script>
 </body>
 </html>
